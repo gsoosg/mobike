@@ -39,7 +39,7 @@ def mobike(location_list, city_code='027'):
         }
         future_to_url = {
             executor.submit(load_url, url,
-                            merge_dicts(data, {'longitude': i[0]}, {'latitude': i[1]}), 10,
+                            merge_dicts(data, {'longitude': i[0]}, {'latitude': i[1]}), 5,
                             headers): url for i in location_list}
         for future in futures.as_completed(future_to_url):
             if future.exception() is not None:
@@ -50,16 +50,15 @@ def mobike(location_list, city_code='027'):
     return all_mobike
 
 
-def num_range(start, end, offset,fix_num=3):
+def num_range(start, end, offset, fix_num=3):
     result_range = []
     tmp_num = start
     math.log10(offset)
 
     while tmp_num < end:
-
         result_range.append(tmp_num)
         tmp_num = tmp_num + offset
-        tmp_num=round(tmp_num, fix_num)
+        tmp_num = round(tmp_num, fix_num)
     result_range.append(end)
     return result_range
 
@@ -89,11 +88,34 @@ def mobike_rect(start_lng, start_lat, end_lng, end_lat, offset=0.001, city_code=
     for lng in lng_range:
         result_mobike = []
         for lat in lat_range:
-            time.sleep(1)
+            # time.sleep(1)
             location_list = [[lng, lat]]
             tmp_mobike = mobike(location_list, city_code)
             result_mobike += tmp_mobike
-            print([lng,lat])
+            print([lng, lat])
         result_csv = reformat_mobike_data(result_mobike, col_names)
         writer.writerows(result_csv)
+    return
+
+
+def mobike_rect2(start_lng, start_lat, end_lng, end_lat, offset=0.001, city_code='027',
+                 csv_file_name='mobike_result.csv'):
+    lng_range = num_range(start_lng, end_lng, offset)
+    lat_range = num_range(start_lat, end_lat, offset)
+    csv_file = open(csv_file_name, 'w')
+    writer = csv.writer(csv_file)
+    # 写入columns_name
+    col_names = ["distId", "distX", "distY", "distNum", "distance", "bikeIds", "biketype", "type", "boundary"]
+    writer.writerow(col_names)
+    for lng in lng_range:
+        result_mobike = []
+        location_list = []
+        for lat in lat_range:
+            tmp_location = [lng, lat]
+            location_list.append(tmp_location)
+        tmp_mobike = mobike(location_list, city_code)
+        result_csv = reformat_mobike_data(result_mobike, col_names)
+        writer.writerows(result_csv)
+        print(lng)
+
     return
