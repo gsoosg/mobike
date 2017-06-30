@@ -24,7 +24,7 @@ def merge_dicts(*dict_args):
 
 def mobike(location_list, city_code='027'):
     all_mobike = []
-    with ThreadPoolExecutor(max_workers=5) as executor:
+    with ThreadPoolExecutor(max_workers=10) as executor:
         url = 'https://mwx.mobike.com/mobike-api/rent/nearbyBikesInfo.do'
         headers = {
             'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, '
@@ -108,12 +108,11 @@ def mobike_rect2(start_lng, start_lat, end_lng, end_lat, offset=0.001, city_code
     col_names = ["distId", "distX", "distY", "distNum", "distance", "bikeIds", "biketype", "type", "boundary"]
     writer.writerow(col_names)
     for lng in lng_range:
-        result_mobike = []
         location_list = []
         for lat in lat_range:
             tmp_location = [lng, lat]
             location_list.append(tmp_location)
-        tmp_mobike = mobike(location_list, city_code)
+        result_mobike = mobike(location_list, city_code)
         result_csv = reformat_mobike_data(result_mobike, col_names)
         writer.writerows(result_csv)
         print(lng)
