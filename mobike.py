@@ -6,7 +6,6 @@ import requests
 from concurrent.futures import ThreadPoolExecutor
 from concurrent import futures
 import csv
-
 import time
 
 
@@ -24,7 +23,7 @@ def merge_dicts(*dict_args):
 
 def mobike(location_list, city_code='027'):
     all_mobike = []
-    with ThreadPoolExecutor(max_workers=10) as executor:
+    with ThreadPoolExecutor(max_workers=5) as executor:
         url = 'https://mwx.mobike.com/mobike-api/rent/nearbyBikesInfo.do'
         headers = {
             'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, '
@@ -100,6 +99,7 @@ def mobike_rect(start_lng, start_lat, end_lng, end_lat, offset=0.001, city_code=
 
 def mobike_rect2(start_lng, start_lat, end_lng, end_lat, offset=0.001, city_code='027',
                  csv_file_name='mobike_result.csv'):
+    s_time = time.time()
     lng_range = num_range(start_lng, end_lng, offset)
     lat_range = num_range(start_lat, end_lat, offset)
     csv_file = open(csv_file_name, 'w')
@@ -116,5 +116,6 @@ def mobike_rect2(start_lng, start_lat, end_lng, end_lat, offset=0.001, city_code
         result_csv = reformat_mobike_data(result_mobike, col_names)
         writer.writerows(result_csv)
         print(lng)
-
+    e_time = time.time()
+    print(e_time - s_time)
     return
