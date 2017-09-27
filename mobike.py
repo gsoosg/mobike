@@ -119,3 +119,18 @@ def mobike_rect2(start_lng, start_lat, end_lng, end_lat, offset=0.001, city_code
     e_time = time.time()
     print(e_time - s_time)
     return
+
+
+def mobike_point(lng_lat_list, city_code='027', csv_file_name='mobike_result.csv'):
+    s_time = time.time()
+    csv_file = open(csv_file_name, 'w')
+    writer = csv.writer(csv_file)
+    # 写入columns_name
+    col_names = ["distId", "distX", "distY", "distNum", "distance", "bikeIds", "biketype", "type", "boundary"]
+    writer.writerow(col_names)
+    result_mobike = mobike(lng_lat_list, city_code)
+    result_csv = reformat_mobike_data(result_mobike, col_names)
+    writer.writerows(result_csv)
+    e_time = time.time()
+    print(e_time - s_time)
+    return
