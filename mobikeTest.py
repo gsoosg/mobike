@@ -13,7 +13,8 @@ end = [114.387, 30.553]
 file_path = '东湖绿道.json'
 csv_file_name = '东湖result。csv'
 lng_lat_list = raj.read_arc_json(file_path)
-mb.mobike_point(lng_lat_list, city_code='027', csv_file_name='mobike_result.csv')
+err_list=mb.mobike_requests(lng_lat_list, mb.default_headers, mb.default_data, city_code='027', csv_file_name=csv_file_name)
+# mb.mobike_point(lng_lat_list, city_code='027', csv_file_name='mobike_result.csv')
 try:
     i = 1
 except:

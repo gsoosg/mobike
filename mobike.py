@@ -8,6 +8,19 @@ from concurrent import futures
 import csv
 import time
 
+url = 'https://mwx.mobike.com/mobike-api/rent/nearbyBikesInfo.do'
+default_headers = {
+    'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, '
+                  'like Gecko) Mobile/14E304 MicroMessenger/6.5.7 NetType/WIFI Language/zh_CN',
+    'Content-Type': 'application/x-www-form-urlencoded',
+    'Referer': 'https://servicewechat.com/wx80f809371ae33eda/48/page-frame.html ',
+}
+default_data = {
+    'longitude': '',
+    'latitude': '',
+    'citycode': '',
+}
+
 
 def load_url(url, params, timeout, headers=None):
     return requests.get(url, params=params, timeout=timeout, headers=headers).json()
@@ -131,6 +144,36 @@ def mobike_point(lng_lat_list, city_code='027', csv_file_name='mobike_result.csv
     result_mobike = mobike(lng_lat_list, city_code)
     result_csv = reformat_mobike_data(result_mobike, col_names)
     writer.writerows(result_csv)
+    e_time = time.time()
+    print(e_time - s_time)
+    return
+
+
+def mobike_requests(lng_lat_list, headers, data, city_code='027', csv_file_name='mobike_result.csv'):
+    s_time = time.time()
+    csv_file = open(csv_file_name, 'w')
+    writer = csv.writer(csv_file)
+    # 写入columns_name
+    col_names = ["distId", "distX", "distY", "distNum", "distance", "bikeIds", "biketype", "type", "boundary"]
+    writer.writerow(col_names)
+    count = 1
+    err_list = []
+    for lng_lat in lng_lat_list:
+        data['longitude'] = lng_lat[0]
+        data['latitude'] = lng_lat[1]
+        data['citycode'] = city_code
+        try:
+            r = requests.post(url, data=data, headers=headers, timeout=0.3)
+            result_mobike = r.json()['object']
+            result_csv = reformat_mobike_data(result_mobike, col_names)
+            writer.writerows(result_csv)
+            print(count)
+        except:
+            time.sleep(0.3)
+            print('E' + str(count))
+            err_list.append(lng_lat)
+        count = count + 1
+        time.sleep(0.01)
     e_time = time.time()
     print(e_time - s_time)
     return
