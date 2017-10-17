@@ -1,21 +1,42 @@
-import mobike as mb
-import readArcGISJson as raj
+import time
+import sqlite3
+import json
 
-start = [114.356, 30.530]
-end = [114.387, 30.553]
-# #
-# start = [114.356, 30.543]
-# end = [114.356, 30.543]
-# 西北角114.348051,30.60365；西南角114.348913,30.517075；东北角114.465046,30.604396；东南角114.475969,30.511599
-# start = [114.348, 30.511]
-# end = [114.476, 30.605]
-# mb.mobike_rect2(start[0], start[1], end[0], end[1], offset=0.0015, city_code='027', csv_file_name='donghulvdao_4.csv')
-file_path = '东湖绿道.json'
-csv_file_name = '东湖result。csv'
-lng_lat_list = raj.read_arc_json(file_path)
-err_list=mb.mobike_requests(lng_lat_list, mb.default_headers, mb.default_data, city_code='027', csv_file_name=csv_file_name)
-# mb.mobike_point(lng_lat_list, city_code='027', csv_file_name='mobike_result.csv')
-try:
-    i = 1
-except:
-    i = 2
+import mobike as mb
+# import readArcGISJson as raj
+
+s_time = time.time()
+# file_path = '绿道.json'
+# # csv_file_name = '绿道result.csv'
+# folder_path = "GreenwayJson/"
+# gw_name = "总绿道"
+# date = "201710161700"
+# lng_lat_list = raj.read_arc_json(file_path)
+# err_list = [0]
+# counter = 0
+# all_result = []
+# while counter <= 10 and len(lng_lat_list) != 0:
+#     r_obj = mb.mobike_requests_in_is(lng_lat_list, mb.default_headers, mb.default_data, city_code='027',
+#                                      csv_file_name=csv_file_name)
+#     counter += 1
+#     err_list = r_obj['err']
+#     result = r_obj['result']
+#     all_result = all_result + result
+#     print(len(err_list))
+#     lng_lat_list = err_list
+# with open("data.json", "w", encoding="UTF-8") as f_dump:
+#     s_dump = json.dump(all_result, f_dump, ensure_ascii=False)
+folder_path = "GreenwayJson/"
+greenway1 = ["东湖绿道", "金银湖绿道", "沙湖绿道"]
+greenway2 = ["后官湖绿道", "江夏环山绿道", "墨水湖绿道"]
+greenway2 = ["月湖知音湖", "张公堤绿道"]
+greenway_list=greenway1
+start_time="2017-10-17 12:00:00"
+end_time="2017-10-17 15:00:00"
+# mb.mobike_requests_db_retry(lng_lat_list, gw_name, date, mb.default_headers, mb.default_data, table_name="MOBIKE",
+#                             city_code='027', max_iteration=5)
+mb.timing_start_spy(greenway_list, folder_path, start_time, end_time, d_minute=30)
+
+e_time = time.time()
+print('Total time:')
+print(e_time - s_time)

@@ -7,7 +7,7 @@ def read_arc_json(file_path):
     features = feature_class['features']
     lat_long_list = []
     for feature in features:
-        lat = feature['attributes']['LAT']
-        lng = feature['attributes']['LNG']
+        lat = feature['attributes']['POINT_Y']
+        lng = feature['attributes']['POINT_X']
         lat_long_list.append([lng, lat])
     return lat_long_list

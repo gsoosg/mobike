@@ -57,3 +57,6 @@ donghulvdao_result.csv
 .idea/workspace.xml
 *.iml
 *.xml
+data.db
+data.json
+test.db

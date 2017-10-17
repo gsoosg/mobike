@@ -2,11 +2,16 @@
 import pickle as pickle
 
 import math
+import sqlite3
+
 import requests
 from concurrent.futures import ThreadPoolExecutor
 from concurrent import futures
 import csv
 import time
+import datetime as dt
+
+import readArcGISJson as raj
 
 url = 'https://mwx.mobike.com/mobike-api/rent/nearbyBikesInfo.do'
 default_headers = {
@@ -176,4 +181,146 @@ def mobike_requests(lng_lat_list, headers, data, city_code='027', csv_file_name=
         time.sleep(0.01)
     e_time = time.time()
     print(e_time - s_time)
-    return
+    return err_list
+
+
+def mobike_requests_in_is(lng_lat_list, headers, data, city_code='027', csv_file_name='mobike_result.csv'):
+    s_time = time.time()
+    # 写入columns_name
+    col_names = ["distId", "distX", "distY", "distNum", "distance", "bikeIds", "biketype", "type", "boundary"]
+    count = 1
+    result = []
+    err_list = []
+
+    for lng_lat in lng_lat_list:
+        data['longitude'] = lng_lat[0]
+        data['latitude'] = lng_lat[1]
+        data['citycode'] = city_code
+        try:
+            r = requests.post(url, data=data, headers=headers, timeout=0.3)
+            result_mobike = r.json()['object']
+            result.append(result_mobike)
+            # result_csv = reformat_mobike_data(result_mobike, col_names)
+            # writer.writerows(result_csv)
+            print(count)
+        except:
+            time.sleep(0.3)
+            print('E' + str(count))
+            err_list.append(lng_lat)
+        count = count + 1
+        time.sleep(0.01)
+    e_time = time.time()
+    print(e_time - s_time)
+    return {'result': result, 'err': err_list}
+
+
+def mobike_requests_db_retry(lng_lat_list, gw_name, date, headers, data, table_name="MOBIKE", city_code='027',
+                             max_iteration=10):
+    s_time = time.time()
+    conn = sqlite3.connect('data.db')
+    sql_cursor = conn.cursor()
+    keys_list = ["distId", "distX", "distY", "distNum", "distance", "bikeIds", "biketype", "type", "boundary", "GWName",
+                 "DATE"]
+    result = []
+    iteration = 0
+    while iteration <= max_iteration and len(lng_lat_list) != 0:
+        count = 1
+        err_list = []
+        for lng_lat in lng_lat_list:
+            data['longitude'] = lng_lat[0]
+            data['latitude'] = lng_lat[1]
+            data['citycode'] = city_code
+            try:
+                r = requests.post(url, data=data, headers=headers, timeout=0.3)
+                result_mobike = r.json()['object']
+                r_list = insert_mobike_data(sql_cursor, result_mobike, gw_name, date, table_name, keys_list)
+                conn.commit()
+                result = result + r_list
+                print(count)
+            except Exception as err:
+                print(err.args[0])
+                time.sleep(0.3)
+                print('E' + str(count))
+                err_list.append(lng_lat)
+            count = count + 1
+            time.sleep(0.01)
+
+        iteration = iteration + 1
+        print(len(err_list))
+        lng_lat_list = err_list
+    e_time = time.time()
+    conn.close()
+    print(e_time - s_time)
+    return result
+
+
+def insert_mobike_data(sql_cursor, result_mobike, gw_name, date, table_name, keys_list):
+    result = []
+    for m_obj in result_mobike:
+        m_obj["GWName"] = gw_name
+        m_obj["DATE"] = date
+        insert_str = create_insert(table_name, keys_list)
+        value_list = get_value_list(m_obj, keys_list)
+        sql_cursor.execute(insert_str, value_list)
+        result.append(m_obj)
+    return result
+
+
+def create_insert(table_name, keys_list):
+    key_str = ""
+    value_str = ""
+    for key in keys_list:
+        key_str = key_str + key + ", "
+        value_str = value_str + "?, "
+    key_str = key_str[0:-2]
+    value_str = value_str[0:-2]
+    sql_str = "INSERT INTO " + table_name + " (" + key_str + ") VALUES (" + value_str + ")"
+    return sql_str
+
+
+def get_value_list(obj, keys_list):
+    value_list = []
+    for key in keys_list:
+        value_list.append(get_value(obj, key))
+    return value_list
+
+
+def get_value(value_obj, key):
+    if key in value_obj:
+        value = value_obj[key]
+        if value is None:
+            value = "-9999"
+    else:
+        value = "-9999"
+    return value
+
+
+def spy_greenway(greenway_list, folder_path, date):
+    for gw_name in greenway_list:
+        file_path = folder_path + gw_name + ".json"
+        lng_lat_list = raj.read_arc_json(file_path)
+        mobike_requests_db_retry(lng_lat_list, gw_name, date, default_headers, default_data, table_name="MOBIKE",
+                                 city_code='027', max_iteration=5)
+
+
+def timing_start_spy(greenway_list, folder_path, start_time, end_time, d_minute=30):
+    s_time = dt.datetime.strftime(start_time, '%Y-%m-%d %H:%M:%S')
+    e_time = dt.datetime.strftime(end_time, '%Y-%m-%d %H:%M:%S')
+    d_m = dt.timedelta(minutes=d_minute)
+    date_time_list = []
+    c_time = s_time
+    while c_time <= e_time:
+        t_obj = {"dt": c_time, "dts": c_time.strftime("%Y%m%d%H%M")}
+        date_time_list.append(t_obj)
+
+    for t_obj in date_time_list:
+        datetime_obj = t_obj["dt"]
+        datetime_str = t_obj["dts"]
+        now_time = dt.datetime.now()
+        d_dt = now_time - datetime_obj
+        if d_dt.seconds > d_minute * 60:
+            continue
+        while now_time < datetime_obj:
+            time.sleep(60)
+            now_time = dt.datetime.now()
+        spy_greenway(greenway_list, folder_path, datetime_str)

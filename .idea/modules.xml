@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://E:\PythonProject\mobike\.idea\mobai.iml" filepath="E:\PythonProject\mobike\.idea\mobai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mobai.iml" filepath="$PROJECT_DIR$/.idea/mobai.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/mobike.iml" filepath="$PROJECT_DIR$/.idea/mobike.iml" />
     </modules>
   </component>
