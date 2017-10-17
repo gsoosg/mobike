@@ -1,0 +1,4195 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "OBJECTID" : "OBJECTID",
+    "FID_tmpSample_label" : "FID_tmpSample_label",
+    "FID_tmpBuffer" : "FID_tmpBuffer",
+    "POINT_X" : "POINT_X",
+    "POINT_Y" : "POINT_Y",
+    "GREENWAY_NAME" : "GREENWAY_NAME"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 4326,
+    "latestWkid" : 4326
+  },
+  "fields" : [
+    {
+      "name" : "OBJECTID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "OBJECTID"
+    },
+    {
+      "name" : "FID_tmpSample_label",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "FID_tmpSample_label"
+    },
+    {
+      "name" : "FID_tmpBuffer",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "FID_tmpBuffer"
+    },
+    {
+      "name" : "POINT_X",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "POINT_X"
+    },
+    {
+      "name" : "POINT_Y",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "POINT_Y"
+    },
+    {
+      "name" : "GREENWAY_NAME",
+      "type" : "esriFieldTypeString",
+      "alias" : "GREENWAY_NAME",
+      "length" : 255
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "OBJECTID" : 1,
+        "FID_tmpSample_label" : 21,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34549414900005,
+        "POINT_Y" : 30.551163214000042,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34549414900005,
+        "y" : 30.551163214000042
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 2,
+        "FID_tmpSample_label" : 22,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34729078000009,
+        "POINT_Y" : 30.551163214000042,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34729078000009,
+        "y" : 30.551163214000042
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 3,
+        "FID_tmpSample_label" : 23,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34908741000004,
+        "POINT_Y" : 30.551163214000042,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34908741000004,
+        "y" : 30.551163214000042
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 4,
+        "FID_tmpSample_label" : 24,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.35088404100009,
+        "POINT_Y" : 30.551163214000042,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.35088404100009,
+        "y" : 30.551163214000042
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 5,
+        "FID_tmpSample_label" : 44,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34010425800011,
+        "POINT_Y" : 30.552710416000025,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34010425800011,
+        "y" : 30.552710416000025
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 6,
+        "FID_tmpSample_label" : 45,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34190088800005,
+        "POINT_Y" : 30.552710416000025,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34190088800005,
+        "y" : 30.552710416000025
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 7,
+        "FID_tmpSample_label" : 46,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.3436975190001,
+        "POINT_Y" : 30.552710416000025,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.3436975190001,
+        "y" : 30.552710416000025
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 8,
+        "FID_tmpSample_label" : 47,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34549414900005,
+        "POINT_Y" : 30.552710416000025,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34549414900005,
+        "y" : 30.552710416000025
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 9,
+        "FID_tmpSample_label" : 48,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34729078000009,
+        "POINT_Y" : 30.552710416000025,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34729078000009,
+        "y" : 30.552710416000025
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 10,
+        "FID_tmpSample_label" : 49,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34908741000004,
+        "POINT_Y" : 30.552710416000025,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34908741000004,
+        "y" : 30.552710416000025
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 11,
+        "FID_tmpSample_label" : 50,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.35088404100009,
+        "POINT_Y" : 30.552710416000025,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.35088404100009,
+        "y" : 30.552710416000025
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 12,
+        "FID_tmpSample_label" : 51,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.35268067200002,
+        "POINT_Y" : 30.552710416000025,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.35268067200002,
+        "y" : 30.552710416000025
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 13,
+        "FID_tmpSample_label" : 69,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33830762700006,
+        "POINT_Y" : 30.554257593000045,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33830762700006,
+        "y" : 30.554257593000045
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 14,
+        "FID_tmpSample_label" : 70,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34010425800011,
+        "POINT_Y" : 30.554257593000045,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34010425800011,
+        "y" : 30.554257593000045
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 15,
+        "FID_tmpSample_label" : 71,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34190088800005,
+        "POINT_Y" : 30.554257593000045,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34190088800005,
+        "y" : 30.554257593000045
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 16,
+        "FID_tmpSample_label" : 72,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.3436975190001,
+        "POINT_Y" : 30.554257593000045,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.3436975190001,
+        "y" : 30.554257593000045
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 17,
+        "FID_tmpSample_label" : 73,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34549414900005,
+        "POINT_Y" : 30.554257593000045,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34549414900005,
+        "y" : 30.554257593000045
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 18,
+        "FID_tmpSample_label" : 74,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34729078000009,
+        "POINT_Y" : 30.554257593000045,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34729078000009,
+        "y" : 30.554257593000045
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 19,
+        "FID_tmpSample_label" : 75,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34908741000004,
+        "POINT_Y" : 30.554257593000045,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34908741000004,
+        "y" : 30.554257593000045
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 20,
+        "FID_tmpSample_label" : 76,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.35088404100009,
+        "POINT_Y" : 30.554257593000045,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.35088404100009,
+        "y" : 30.554257593000045
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 21,
+        "FID_tmpSample_label" : 77,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.35268067200002,
+        "POINT_Y" : 30.554257593000045,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.35268067200002,
+        "y" : 30.554257593000045
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 22,
+        "FID_tmpSample_label" : 82,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31495143000006,
+        "POINT_Y" : 30.555804746000035,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31495143000006,
+        "y" : 30.555804746000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 23,
+        "FID_tmpSample_label" : 83,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31674806000001,
+        "POINT_Y" : 30.555804746000035,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31674806000001,
+        "y" : 30.555804746000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 24,
+        "FID_tmpSample_label" : 84,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31854469100006,
+        "POINT_Y" : 30.555804746000035,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31854469100006,
+        "y" : 30.555804746000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 25,
+        "FID_tmpSample_label" : 85,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32034132100011,
+        "POINT_Y" : 30.555804746000035,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32034132100011,
+        "y" : 30.555804746000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 26,
+        "FID_tmpSample_label" : 86,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32213795200005,
+        "POINT_Y" : 30.555804746000035,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32213795200005,
+        "y" : 30.555804746000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 27,
+        "FID_tmpSample_label" : 87,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32393458200011,
+        "POINT_Y" : 30.555804746000035,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32393458200011,
+        "y" : 30.555804746000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 28,
+        "FID_tmpSample_label" : 88,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32573121300004,
+        "POINT_Y" : 30.555804746000035,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32573121300004,
+        "y" : 30.555804746000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 29,
+        "FID_tmpSample_label" : 94,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33651099600002,
+        "POINT_Y" : 30.555804746000035,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33651099600002,
+        "y" : 30.555804746000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 30,
+        "FID_tmpSample_label" : 95,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33830762700006,
+        "POINT_Y" : 30.555804746000035,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33830762700006,
+        "y" : 30.555804746000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 31,
+        "FID_tmpSample_label" : 96,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34010425800011,
+        "POINT_Y" : 30.555804746000035,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34010425800011,
+        "y" : 30.555804746000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 32,
+        "FID_tmpSample_label" : 97,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34190088800005,
+        "POINT_Y" : 30.555804746000035,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34190088800005,
+        "y" : 30.555804746000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 33,
+        "FID_tmpSample_label" : 98,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.3436975190001,
+        "POINT_Y" : 30.555804746000035,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.3436975190001,
+        "y" : 30.555804746000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 34,
+        "FID_tmpSample_label" : 99,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34549414900005,
+        "POINT_Y" : 30.555804746000035,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34549414900005,
+        "y" : 30.555804746000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 35,
+        "FID_tmpSample_label" : 100,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34729078000009,
+        "POINT_Y" : 30.555804746000035,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34729078000009,
+        "y" : 30.555804746000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 36,
+        "FID_tmpSample_label" : 101,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34908741000004,
+        "POINT_Y" : 30.555804746000035,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34908741000004,
+        "y" : 30.555804746000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 37,
+        "FID_tmpSample_label" : 102,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.35088404100009,
+        "POINT_Y" : 30.555804746000035,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.35088404100009,
+        "y" : 30.555804746000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 38,
+        "FID_tmpSample_label" : 103,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.35268067200002,
+        "POINT_Y" : 30.555804746000035,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.35268067200002,
+        "y" : 30.555804746000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 39,
+        "FID_tmpSample_label" : 106,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31135816800008,
+        "POINT_Y" : 30.557351874000062,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31135816800008,
+        "y" : 30.557351874000062
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 40,
+        "FID_tmpSample_label" : 107,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31315479900002,
+        "POINT_Y" : 30.557351874000062,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31315479900002,
+        "y" : 30.557351874000062
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 41,
+        "FID_tmpSample_label" : 108,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31495143000006,
+        "POINT_Y" : 30.557351874000062,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31495143000006,
+        "y" : 30.557351874000062
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 42,
+        "FID_tmpSample_label" : 109,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31674806000001,
+        "POINT_Y" : 30.557351874000062,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31674806000001,
+        "y" : 30.557351874000062
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 43,
+        "FID_tmpSample_label" : 110,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31854469100006,
+        "POINT_Y" : 30.557351874000062,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31854469100006,
+        "y" : 30.557351874000062
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 44,
+        "FID_tmpSample_label" : 111,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32034132100011,
+        "POINT_Y" : 30.557351874000062,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32034132100011,
+        "y" : 30.557351874000062
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 45,
+        "FID_tmpSample_label" : 112,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32213795200005,
+        "POINT_Y" : 30.557351874000062,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32213795200005,
+        "y" : 30.557351874000062
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 46,
+        "FID_tmpSample_label" : 113,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32393458200011,
+        "POINT_Y" : 30.557351874000062,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32393458200011,
+        "y" : 30.557351874000062
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 47,
+        "FID_tmpSample_label" : 114,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32573121300004,
+        "POINT_Y" : 30.557351874000062,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32573121300004,
+        "y" : 30.557351874000062
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 48,
+        "FID_tmpSample_label" : 115,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32752784400009,
+        "POINT_Y" : 30.557351874000062,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32752784400009,
+        "y" : 30.557351874000062
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 49,
+        "FID_tmpSample_label" : 116,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32932447400003,
+        "POINT_Y" : 30.557351874000062,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32932447400003,
+        "y" : 30.557351874000062
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 50,
+        "FID_tmpSample_label" : 118,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33291773500002,
+        "POINT_Y" : 30.557351874000062,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33291773500002,
+        "y" : 30.557351874000062
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 51,
+        "FID_tmpSample_label" : 119,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33471436600007,
+        "POINT_Y" : 30.557351874000062,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33471436600007,
+        "y" : 30.557351874000062
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 52,
+        "FID_tmpSample_label" : 120,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33651099600002,
+        "POINT_Y" : 30.557351874000062,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33651099600002,
+        "y" : 30.557351874000062
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 53,
+        "FID_tmpSample_label" : 121,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33830762700006,
+        "POINT_Y" : 30.557351874000062,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33830762700006,
+        "y" : 30.557351874000062
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 54,
+        "FID_tmpSample_label" : 122,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34010425800011,
+        "POINT_Y" : 30.557351874000062,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34010425800011,
+        "y" : 30.557351874000062
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 55,
+        "FID_tmpSample_label" : 123,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34190088800005,
+        "POINT_Y" : 30.557351874000062,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34190088800005,
+        "y" : 30.557351874000062
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 56,
+        "FID_tmpSample_label" : 124,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.3436975190001,
+        "POINT_Y" : 30.557351874000062,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.3436975190001,
+        "y" : 30.557351874000062
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 57,
+        "FID_tmpSample_label" : 125,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34549414900005,
+        "POINT_Y" : 30.557351874000062,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34549414900005,
+        "y" : 30.557351874000062
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 58,
+        "FID_tmpSample_label" : 126,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34729078000009,
+        "POINT_Y" : 30.557351874000062,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34729078000009,
+        "y" : 30.557351874000062
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 59,
+        "FID_tmpSample_label" : 127,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34908741000004,
+        "POINT_Y" : 30.557351874000062,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34908741000004,
+        "y" : 30.557351874000062
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 60,
+        "FID_tmpSample_label" : 128,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.35088404100009,
+        "POINT_Y" : 30.557351874000062,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.35088404100009,
+        "y" : 30.557351874000062
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 61,
+        "FID_tmpSample_label" : 131,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.30956153800003,
+        "POINT_Y" : 30.558898977000069,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.30956153800003,
+        "y" : 30.558898977000069
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 62,
+        "FID_tmpSample_label" : 132,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31135816800008,
+        "POINT_Y" : 30.558898977000069,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31135816800008,
+        "y" : 30.558898977000069
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 63,
+        "FID_tmpSample_label" : 133,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31315479900002,
+        "POINT_Y" : 30.558898977000069,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31315479900002,
+        "y" : 30.558898977000069
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 64,
+        "FID_tmpSample_label" : 134,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31495143000006,
+        "POINT_Y" : 30.558898977000069,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31495143000006,
+        "y" : 30.558898977000069
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 65,
+        "FID_tmpSample_label" : 135,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31674806000001,
+        "POINT_Y" : 30.558898977000069,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31674806000001,
+        "y" : 30.558898977000069
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 66,
+        "FID_tmpSample_label" : 136,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31854469100006,
+        "POINT_Y" : 30.558898977000069,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31854469100006,
+        "y" : 30.558898977000069
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 67,
+        "FID_tmpSample_label" : 137,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32034132100011,
+        "POINT_Y" : 30.558898977000069,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32034132100011,
+        "y" : 30.558898977000069
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 68,
+        "FID_tmpSample_label" : 138,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32213795200005,
+        "POINT_Y" : 30.558898977000069,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32213795200005,
+        "y" : 30.558898977000069
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 69,
+        "FID_tmpSample_label" : 139,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32393458200011,
+        "POINT_Y" : 30.558898977000069,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32393458200011,
+        "y" : 30.558898977000069
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 70,
+        "FID_tmpSample_label" : 140,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32573121300004,
+        "POINT_Y" : 30.558898977000069,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32573121300004,
+        "y" : 30.558898977000069
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 71,
+        "FID_tmpSample_label" : 141,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32752784400009,
+        "POINT_Y" : 30.558898977000069,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32752784400009,
+        "y" : 30.558898977000069
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 72,
+        "FID_tmpSample_label" : 142,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32932447400003,
+        "POINT_Y" : 30.558898977000069,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32932447400003,
+        "y" : 30.558898977000069
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 73,
+        "FID_tmpSample_label" : 143,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33112110500008,
+        "POINT_Y" : 30.558898977000069,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33112110500008,
+        "y" : 30.558898977000069
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 74,
+        "FID_tmpSample_label" : 144,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33291773500002,
+        "POINT_Y" : 30.558898977000069,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33291773500002,
+        "y" : 30.558898977000069
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 75,
+        "FID_tmpSample_label" : 145,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33471436600007,
+        "POINT_Y" : 30.558898977000069,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33471436600007,
+        "y" : 30.558898977000069
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 76,
+        "FID_tmpSample_label" : 146,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33651099600002,
+        "POINT_Y" : 30.558898977000069,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33651099600002,
+        "y" : 30.558898977000069
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 77,
+        "FID_tmpSample_label" : 147,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33830762700006,
+        "POINT_Y" : 30.558898977000069,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33830762700006,
+        "y" : 30.558898977000069
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 78,
+        "FID_tmpSample_label" : 148,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34010425800011,
+        "POINT_Y" : 30.558898977000069,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34010425800011,
+        "y" : 30.558898977000069
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 79,
+        "FID_tmpSample_label" : 149,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34190088800005,
+        "POINT_Y" : 30.558898977000069,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34190088800005,
+        "y" : 30.558898977000069
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 80,
+        "FID_tmpSample_label" : 150,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.3436975190001,
+        "POINT_Y" : 30.558898977000069,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.3436975190001,
+        "y" : 30.558898977000069
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 81,
+        "FID_tmpSample_label" : 157,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.30956153800003,
+        "POINT_Y" : 30.560446056000046,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.30956153800003,
+        "y" : 30.560446056000046
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 82,
+        "FID_tmpSample_label" : 158,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31135816800008,
+        "POINT_Y" : 30.560446056000046,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31135816800008,
+        "y" : 30.560446056000046
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 83,
+        "FID_tmpSample_label" : 159,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31315479900002,
+        "POINT_Y" : 30.560446056000046,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31315479900002,
+        "y" : 30.560446056000046
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 84,
+        "FID_tmpSample_label" : 160,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31495143000006,
+        "POINT_Y" : 30.560446056000046,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31495143000006,
+        "y" : 30.560446056000046
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 85,
+        "FID_tmpSample_label" : 161,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31674806000001,
+        "POINT_Y" : 30.560446056000046,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31674806000001,
+        "y" : 30.560446056000046
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 86,
+        "FID_tmpSample_label" : 162,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31854469100006,
+        "POINT_Y" : 30.560446056000046,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31854469100006,
+        "y" : 30.560446056000046
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 87,
+        "FID_tmpSample_label" : 163,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32034132100011,
+        "POINT_Y" : 30.560446056000046,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32034132100011,
+        "y" : 30.560446056000046
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 88,
+        "FID_tmpSample_label" : 164,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32213795200005,
+        "POINT_Y" : 30.560446056000046,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32213795200005,
+        "y" : 30.560446056000046
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 89,
+        "FID_tmpSample_label" : 165,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32393458200011,
+        "POINT_Y" : 30.560446056000046,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32393458200011,
+        "y" : 30.560446056000046
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 90,
+        "FID_tmpSample_label" : 166,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32573121300004,
+        "POINT_Y" : 30.560446056000046,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32573121300004,
+        "y" : 30.560446056000046
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 91,
+        "FID_tmpSample_label" : 167,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32752784400009,
+        "POINT_Y" : 30.560446056000046,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32752784400009,
+        "y" : 30.560446056000046
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 92,
+        "FID_tmpSample_label" : 168,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32932447400003,
+        "POINT_Y" : 30.560446056000046,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32932447400003,
+        "y" : 30.560446056000046
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 93,
+        "FID_tmpSample_label" : 169,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33112110500008,
+        "POINT_Y" : 30.560446056000046,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33112110500008,
+        "y" : 30.560446056000046
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 94,
+        "FID_tmpSample_label" : 170,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33291773500002,
+        "POINT_Y" : 30.560446056000046,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33291773500002,
+        "y" : 30.560446056000046
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 95,
+        "FID_tmpSample_label" : 171,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33471436600007,
+        "POINT_Y" : 30.560446056000046,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33471436600007,
+        "y" : 30.560446056000046
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 96,
+        "FID_tmpSample_label" : 172,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33651099600002,
+        "POINT_Y" : 30.560446056000046,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33651099600002,
+        "y" : 30.560446056000046
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 97,
+        "FID_tmpSample_label" : 173,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33830762700006,
+        "POINT_Y" : 30.560446056000046,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33830762700006,
+        "y" : 30.560446056000046
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 98,
+        "FID_tmpSample_label" : 174,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34010425800011,
+        "POINT_Y" : 30.560446056000046,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34010425800011,
+        "y" : 30.560446056000046
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 99,
+        "FID_tmpSample_label" : 175,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34190088800005,
+        "POINT_Y" : 30.560446056000046,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34190088800005,
+        "y" : 30.560446056000046
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 100,
+        "FID_tmpSample_label" : 183,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.30956153800003,
+        "POINT_Y" : 30.56199311000006,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.30956153800003,
+        "y" : 30.56199311000006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 101,
+        "FID_tmpSample_label" : 184,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31135816800008,
+        "POINT_Y" : 30.56199311000006,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31135816800008,
+        "y" : 30.56199311000006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 102,
+        "FID_tmpSample_label" : 185,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31315479900002,
+        "POINT_Y" : 30.56199311000006,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31315479900002,
+        "y" : 30.56199311000006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 103,
+        "FID_tmpSample_label" : 186,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31495143000006,
+        "POINT_Y" : 30.56199311000006,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31495143000006,
+        "y" : 30.56199311000006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 104,
+        "FID_tmpSample_label" : 187,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31674806000001,
+        "POINT_Y" : 30.56199311000006,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31674806000001,
+        "y" : 30.56199311000006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 105,
+        "FID_tmpSample_label" : 188,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31854469100006,
+        "POINT_Y" : 30.56199311000006,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31854469100006,
+        "y" : 30.56199311000006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 106,
+        "FID_tmpSample_label" : 189,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32034132100011,
+        "POINT_Y" : 30.56199311000006,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32034132100011,
+        "y" : 30.56199311000006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 107,
+        "FID_tmpSample_label" : 190,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32213795200005,
+        "POINT_Y" : 30.56199311000006,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32213795200005,
+        "y" : 30.56199311000006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 108,
+        "FID_tmpSample_label" : 191,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32393458200011,
+        "POINT_Y" : 30.56199311000006,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32393458200011,
+        "y" : 30.56199311000006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 109,
+        "FID_tmpSample_label" : 192,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32573121300004,
+        "POINT_Y" : 30.56199311000006,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32573121300004,
+        "y" : 30.56199311000006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 110,
+        "FID_tmpSample_label" : 193,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32752784400009,
+        "POINT_Y" : 30.56199311000006,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32752784400009,
+        "y" : 30.56199311000006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 111,
+        "FID_tmpSample_label" : 194,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32932447400003,
+        "POINT_Y" : 30.56199311000006,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32932447400003,
+        "y" : 30.56199311000006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 112,
+        "FID_tmpSample_label" : 195,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33112110500008,
+        "POINT_Y" : 30.56199311000006,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33112110500008,
+        "y" : 30.56199311000006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 113,
+        "FID_tmpSample_label" : 196,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33291773500002,
+        "POINT_Y" : 30.56199311000006,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33291773500002,
+        "y" : 30.56199311000006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 114,
+        "FID_tmpSample_label" : 197,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33471436600007,
+        "POINT_Y" : 30.56199311000006,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33471436600007,
+        "y" : 30.56199311000006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 115,
+        "FID_tmpSample_label" : 198,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33651099600002,
+        "POINT_Y" : 30.56199311000006,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33651099600002,
+        "y" : 30.56199311000006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 116,
+        "FID_tmpSample_label" : 199,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33830762700006,
+        "POINT_Y" : 30.56199311000006,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33830762700006,
+        "y" : 30.56199311000006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 117,
+        "FID_tmpSample_label" : 200,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34010425800011,
+        "POINT_Y" : 30.56199311000006,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34010425800011,
+        "y" : 30.56199311000006
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 118,
+        "FID_tmpSample_label" : 209,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.30956153800003,
+        "POINT_Y" : 30.563540140000043,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.30956153800003,
+        "y" : 30.563540140000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 119,
+        "FID_tmpSample_label" : 210,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31135816800008,
+        "POINT_Y" : 30.563540140000043,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31135816800008,
+        "y" : 30.563540140000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 120,
+        "FID_tmpSample_label" : 211,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31315479900002,
+        "POINT_Y" : 30.563540140000043,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31315479900002,
+        "y" : 30.563540140000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 121,
+        "FID_tmpSample_label" : 212,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31495143000006,
+        "POINT_Y" : 30.563540140000043,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31495143000006,
+        "y" : 30.563540140000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 122,
+        "FID_tmpSample_label" : 213,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31674806000001,
+        "POINT_Y" : 30.563540140000043,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31674806000001,
+        "y" : 30.563540140000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 123,
+        "FID_tmpSample_label" : 218,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32573121300004,
+        "POINT_Y" : 30.563540140000043,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32573121300004,
+        "y" : 30.563540140000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 124,
+        "FID_tmpSample_label" : 219,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32752784400009,
+        "POINT_Y" : 30.563540140000043,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32752784400009,
+        "y" : 30.563540140000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 125,
+        "FID_tmpSample_label" : 220,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32932447400003,
+        "POINT_Y" : 30.563540140000043,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32932447400003,
+        "y" : 30.563540140000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 126,
+        "FID_tmpSample_label" : 221,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33112110500008,
+        "POINT_Y" : 30.563540140000043,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33112110500008,
+        "y" : 30.563540140000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 127,
+        "FID_tmpSample_label" : 222,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33291773500002,
+        "POINT_Y" : 30.563540140000043,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33291773500002,
+        "y" : 30.563540140000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 128,
+        "FID_tmpSample_label" : 223,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33471436600007,
+        "POINT_Y" : 30.563540140000043,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33471436600007,
+        "y" : 30.563540140000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 129,
+        "FID_tmpSample_label" : 224,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33651099600002,
+        "POINT_Y" : 30.563540140000043,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33651099600002,
+        "y" : 30.563540140000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 130,
+        "FID_tmpSample_label" : 225,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33830762700006,
+        "POINT_Y" : 30.563540140000043,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33830762700006,
+        "y" : 30.563540140000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 131,
+        "FID_tmpSample_label" : 226,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34010425800011,
+        "POINT_Y" : 30.563540140000043,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34010425800011,
+        "y" : 30.563540140000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 132,
+        "FID_tmpSample_label" : 227,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34190088800005,
+        "POINT_Y" : 30.563540140000043,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34190088800005,
+        "y" : 30.563540140000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 133,
+        "FID_tmpSample_label" : 235,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.30956153800003,
+        "POINT_Y" : 30.565087144000074,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.30956153800003,
+        "y" : 30.565087144000074
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 134,
+        "FID_tmpSample_label" : 236,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31135816800008,
+        "POINT_Y" : 30.565087144000074,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31135816800008,
+        "y" : 30.565087144000074
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 135,
+        "FID_tmpSample_label" : 237,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31315479900002,
+        "POINT_Y" : 30.565087144000074,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31315479900002,
+        "y" : 30.565087144000074
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 136,
+        "FID_tmpSample_label" : 238,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31495143000006,
+        "POINT_Y" : 30.565087144000074,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31495143000006,
+        "y" : 30.565087144000074
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 137,
+        "FID_tmpSample_label" : 239,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31674806000001,
+        "POINT_Y" : 30.565087144000074,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31674806000001,
+        "y" : 30.565087144000074
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 138,
+        "FID_tmpSample_label" : 240,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31854469100006,
+        "POINT_Y" : 30.565087144000074,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31854469100006,
+        "y" : 30.565087144000074
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 139,
+        "FID_tmpSample_label" : 245,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32752784400009,
+        "POINT_Y" : 30.565087144000074,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32752784400009,
+        "y" : 30.565087144000074
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 140,
+        "FID_tmpSample_label" : 246,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32932447400003,
+        "POINT_Y" : 30.565087144000074,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32932447400003,
+        "y" : 30.565087144000074
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 141,
+        "FID_tmpSample_label" : 247,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33112110500008,
+        "POINT_Y" : 30.565087144000074,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33112110500008,
+        "y" : 30.565087144000074
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 142,
+        "FID_tmpSample_label" : 248,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33291773500002,
+        "POINT_Y" : 30.565087144000074,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33291773500002,
+        "y" : 30.565087144000074
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 143,
+        "FID_tmpSample_label" : 249,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33471436600007,
+        "POINT_Y" : 30.565087144000074,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33471436600007,
+        "y" : 30.565087144000074
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 144,
+        "FID_tmpSample_label" : 250,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33651099600002,
+        "POINT_Y" : 30.565087144000074,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33651099600002,
+        "y" : 30.565087144000074
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 145,
+        "FID_tmpSample_label" : 251,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33830762700006,
+        "POINT_Y" : 30.565087144000074,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33830762700006,
+        "y" : 30.565087144000074
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 146,
+        "FID_tmpSample_label" : 252,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34010425800011,
+        "POINT_Y" : 30.565087144000074,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34010425800011,
+        "y" : 30.565087144000074
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 147,
+        "FID_tmpSample_label" : 253,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34190088800005,
+        "POINT_Y" : 30.565087144000074,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34190088800005,
+        "y" : 30.565087144000074
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 148,
+        "FID_tmpSample_label" : 254,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.3436975190001,
+        "POINT_Y" : 30.565087144000074,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.3436975190001,
+        "y" : 30.565087144000074
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 149,
+        "FID_tmpSample_label" : 255,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34549414900005,
+        "POINT_Y" : 30.565087144000074,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34549414900005,
+        "y" : 30.565087144000074
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 150,
+        "FID_tmpSample_label" : 261,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.30956153800003,
+        "POINT_Y" : 30.566634125000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.30956153800003,
+        "y" : 30.566634125000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 151,
+        "FID_tmpSample_label" : 262,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31135816800008,
+        "POINT_Y" : 30.566634125000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31135816800008,
+        "y" : 30.566634125000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 152,
+        "FID_tmpSample_label" : 263,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31315479900002,
+        "POINT_Y" : 30.566634125000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31315479900002,
+        "y" : 30.566634125000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 153,
+        "FID_tmpSample_label" : 264,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31495143000006,
+        "POINT_Y" : 30.566634125000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31495143000006,
+        "y" : 30.566634125000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 154,
+        "FID_tmpSample_label" : 265,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31674806000001,
+        "POINT_Y" : 30.566634125000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31674806000001,
+        "y" : 30.566634125000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 155,
+        "FID_tmpSample_label" : 266,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31854469100006,
+        "POINT_Y" : 30.566634125000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31854469100006,
+        "y" : 30.566634125000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 156,
+        "FID_tmpSample_label" : 267,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32034132100011,
+        "POINT_Y" : 30.566634125000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32034132100011,
+        "y" : 30.566634125000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 157,
+        "FID_tmpSample_label" : 272,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32932447400003,
+        "POINT_Y" : 30.566634125000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32932447400003,
+        "y" : 30.566634125000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 158,
+        "FID_tmpSample_label" : 273,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33112110500008,
+        "POINT_Y" : 30.566634125000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33112110500008,
+        "y" : 30.566634125000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 159,
+        "FID_tmpSample_label" : 274,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33291773500002,
+        "POINT_Y" : 30.566634125000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33291773500002,
+        "y" : 30.566634125000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 160,
+        "FID_tmpSample_label" : 275,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33471436600007,
+        "POINT_Y" : 30.566634125000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33471436600007,
+        "y" : 30.566634125000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 161,
+        "FID_tmpSample_label" : 276,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33651099600002,
+        "POINT_Y" : 30.566634125000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33651099600002,
+        "y" : 30.566634125000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 162,
+        "FID_tmpSample_label" : 277,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33830762700006,
+        "POINT_Y" : 30.566634125000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33830762700006,
+        "y" : 30.566634125000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 163,
+        "FID_tmpSample_label" : 278,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34010425800011,
+        "POINT_Y" : 30.566634125000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34010425800011,
+        "y" : 30.566634125000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 164,
+        "FID_tmpSample_label" : 279,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34190088800005,
+        "POINT_Y" : 30.566634125000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34190088800005,
+        "y" : 30.566634125000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 165,
+        "FID_tmpSample_label" : 280,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.3436975190001,
+        "POINT_Y" : 30.566634125000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.3436975190001,
+        "y" : 30.566634125000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 166,
+        "FID_tmpSample_label" : 281,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34549414900005,
+        "POINT_Y" : 30.566634125000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34549414900005,
+        "y" : 30.566634125000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 167,
+        "FID_tmpSample_label" : 287,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.30956153800003,
+        "POINT_Y" : 30.568181080000045,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.30956153800003,
+        "y" : 30.568181080000045
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 168,
+        "FID_tmpSample_label" : 288,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31135816800008,
+        "POINT_Y" : 30.568181080000045,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31135816800008,
+        "y" : 30.568181080000045
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 169,
+        "FID_tmpSample_label" : 289,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31315479900002,
+        "POINT_Y" : 30.568181080000045,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31315479900002,
+        "y" : 30.568181080000045
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 170,
+        "FID_tmpSample_label" : 290,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31495143000006,
+        "POINT_Y" : 30.568181080000045,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31495143000006,
+        "y" : 30.568181080000045
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 171,
+        "FID_tmpSample_label" : 291,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31674806000001,
+        "POINT_Y" : 30.568181080000045,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31674806000001,
+        "y" : 30.568181080000045
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 172,
+        "FID_tmpSample_label" : 292,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31854469100006,
+        "POINT_Y" : 30.568181080000045,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31854469100006,
+        "y" : 30.568181080000045
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 173,
+        "FID_tmpSample_label" : 293,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32034132100011,
+        "POINT_Y" : 30.568181080000045,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32034132100011,
+        "y" : 30.568181080000045
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 174,
+        "FID_tmpSample_label" : 294,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32213795200005,
+        "POINT_Y" : 30.568181080000045,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32213795200005,
+        "y" : 30.568181080000045
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 175,
+        "FID_tmpSample_label" : 295,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32393458200011,
+        "POINT_Y" : 30.568181080000045,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32393458200011,
+        "y" : 30.568181080000045
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 176,
+        "FID_tmpSample_label" : 302,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33651099600002,
+        "POINT_Y" : 30.568181080000045,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33651099600002,
+        "y" : 30.568181080000045
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 177,
+        "FID_tmpSample_label" : 303,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33830762700006,
+        "POINT_Y" : 30.568181080000045,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33830762700006,
+        "y" : 30.568181080000045
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 178,
+        "FID_tmpSample_label" : 304,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34010425800011,
+        "POINT_Y" : 30.568181080000045,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34010425800011,
+        "y" : 30.568181080000045
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 179,
+        "FID_tmpSample_label" : 305,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34190088800005,
+        "POINT_Y" : 30.568181080000045,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34190088800005,
+        "y" : 30.568181080000045
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 180,
+        "FID_tmpSample_label" : 306,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.3436975190001,
+        "POINT_Y" : 30.568181080000045,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.3436975190001,
+        "y" : 30.568181080000045
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 181,
+        "FID_tmpSample_label" : 307,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34549414900005,
+        "POINT_Y" : 30.568181080000045,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34549414900005,
+        "y" : 30.568181080000045
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 182,
+        "FID_tmpSample_label" : 308,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34729078000009,
+        "POINT_Y" : 30.568181080000045,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34729078000009,
+        "y" : 30.568181080000045
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 183,
+        "FID_tmpSample_label" : 314,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31135816800008,
+        "POINT_Y" : 30.569728011000052,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31135816800008,
+        "y" : 30.569728011000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 184,
+        "FID_tmpSample_label" : 315,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31315479900002,
+        "POINT_Y" : 30.569728011000052,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31315479900002,
+        "y" : 30.569728011000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 185,
+        "FID_tmpSample_label" : 316,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31495143000006,
+        "POINT_Y" : 30.569728011000052,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31495143000006,
+        "y" : 30.569728011000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 186,
+        "FID_tmpSample_label" : 317,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31674806000001,
+        "POINT_Y" : 30.569728011000052,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31674806000001,
+        "y" : 30.569728011000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 187,
+        "FID_tmpSample_label" : 318,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31854469100006,
+        "POINT_Y" : 30.569728011000052,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31854469100006,
+        "y" : 30.569728011000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 188,
+        "FID_tmpSample_label" : 319,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32034132100011,
+        "POINT_Y" : 30.569728011000052,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32034132100011,
+        "y" : 30.569728011000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 189,
+        "FID_tmpSample_label" : 320,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32213795200005,
+        "POINT_Y" : 30.569728011000052,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32213795200005,
+        "y" : 30.569728011000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 190,
+        "FID_tmpSample_label" : 321,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32393458200011,
+        "POINT_Y" : 30.569728011000052,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32393458200011,
+        "y" : 30.569728011000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 191,
+        "FID_tmpSample_label" : 322,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32573121300004,
+        "POINT_Y" : 30.569728011000052,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32573121300004,
+        "y" : 30.569728011000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 192,
+        "FID_tmpSample_label" : 323,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32752784400009,
+        "POINT_Y" : 30.569728011000052,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32752784400009,
+        "y" : 30.569728011000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 193,
+        "FID_tmpSample_label" : 324,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32932447400003,
+        "POINT_Y" : 30.569728011000052,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32932447400003,
+        "y" : 30.569728011000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 194,
+        "FID_tmpSample_label" : 327,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33471436600007,
+        "POINT_Y" : 30.569728011000052,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33471436600007,
+        "y" : 30.569728011000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 195,
+        "FID_tmpSample_label" : 329,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33830762700006,
+        "POINT_Y" : 30.569728011000052,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33830762700006,
+        "y" : 30.569728011000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 196,
+        "FID_tmpSample_label" : 330,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34010425800011,
+        "POINT_Y" : 30.569728011000052,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34010425800011,
+        "y" : 30.569728011000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 197,
+        "FID_tmpSample_label" : 331,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34190088800005,
+        "POINT_Y" : 30.569728011000052,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34190088800005,
+        "y" : 30.569728011000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 198,
+        "FID_tmpSample_label" : 332,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.3436975190001,
+        "POINT_Y" : 30.569728011000052,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.3436975190001,
+        "y" : 30.569728011000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 199,
+        "FID_tmpSample_label" : 333,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34549414900005,
+        "POINT_Y" : 30.569728011000052,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34549414900005,
+        "y" : 30.569728011000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 200,
+        "FID_tmpSample_label" : 334,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34729078000009,
+        "POINT_Y" : 30.569728011000052,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34729078000009,
+        "y" : 30.569728011000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 201,
+        "FID_tmpSample_label" : 335,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34908741000004,
+        "POINT_Y" : 30.569728011000052,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34908741000004,
+        "y" : 30.569728011000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 202,
+        "FID_tmpSample_label" : 342,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31495143000006,
+        "POINT_Y" : 30.571274917000039,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31495143000006,
+        "y" : 30.571274917000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 203,
+        "FID_tmpSample_label" : 343,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31674806000001,
+        "POINT_Y" : 30.571274917000039,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31674806000001,
+        "y" : 30.571274917000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 204,
+        "FID_tmpSample_label" : 344,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31854469100006,
+        "POINT_Y" : 30.571274917000039,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31854469100006,
+        "y" : 30.571274917000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 205,
+        "FID_tmpSample_label" : 345,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32034132100011,
+        "POINT_Y" : 30.571274917000039,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32034132100011,
+        "y" : 30.571274917000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 206,
+        "FID_tmpSample_label" : 346,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32213795200005,
+        "POINT_Y" : 30.571274917000039,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32213795200005,
+        "y" : 30.571274917000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 207,
+        "FID_tmpSample_label" : 347,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32393458200011,
+        "POINT_Y" : 30.571274917000039,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32393458200011,
+        "y" : 30.571274917000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 208,
+        "FID_tmpSample_label" : 348,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32573121300004,
+        "POINT_Y" : 30.571274917000039,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32573121300004,
+        "y" : 30.571274917000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 209,
+        "FID_tmpSample_label" : 349,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32752784400009,
+        "POINT_Y" : 30.571274917000039,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32752784400009,
+        "y" : 30.571274917000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 210,
+        "FID_tmpSample_label" : 350,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32932447400003,
+        "POINT_Y" : 30.571274917000039,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32932447400003,
+        "y" : 30.571274917000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 211,
+        "FID_tmpSample_label" : 351,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33112110500008,
+        "POINT_Y" : 30.571274917000039,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33112110500008,
+        "y" : 30.571274917000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 212,
+        "FID_tmpSample_label" : 352,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33291773500002,
+        "POINT_Y" : 30.571274917000039,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33291773500002,
+        "y" : 30.571274917000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 213,
+        "FID_tmpSample_label" : 353,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33471436600007,
+        "POINT_Y" : 30.571274917000039,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33471436600007,
+        "y" : 30.571274917000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 214,
+        "FID_tmpSample_label" : 354,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33651099600002,
+        "POINT_Y" : 30.571274917000039,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33651099600002,
+        "y" : 30.571274917000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 215,
+        "FID_tmpSample_label" : 355,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33830762700006,
+        "POINT_Y" : 30.571274917000039,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33830762700006,
+        "y" : 30.571274917000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 216,
+        "FID_tmpSample_label" : 356,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34010425800011,
+        "POINT_Y" : 30.571274917000039,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34010425800011,
+        "y" : 30.571274917000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 217,
+        "FID_tmpSample_label" : 357,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34190088800005,
+        "POINT_Y" : 30.571274917000039,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34190088800005,
+        "y" : 30.571274917000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 218,
+        "FID_tmpSample_label" : 358,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.3436975190001,
+        "POINT_Y" : 30.571274917000039,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.3436975190001,
+        "y" : 30.571274917000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 219,
+        "FID_tmpSample_label" : 359,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34549414900005,
+        "POINT_Y" : 30.571274917000039,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34549414900005,
+        "y" : 30.571274917000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 220,
+        "FID_tmpSample_label" : 360,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34729078000009,
+        "POINT_Y" : 30.571274917000039,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34729078000009,
+        "y" : 30.571274917000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 221,
+        "FID_tmpSample_label" : 361,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34908741000004,
+        "POINT_Y" : 30.571274917000039,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34908741000004,
+        "y" : 30.571274917000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 222,
+        "FID_tmpSample_label" : 369,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31674806000001,
+        "POINT_Y" : 30.572821798000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31674806000001,
+        "y" : 30.572821798000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 223,
+        "FID_tmpSample_label" : 370,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.31854469100006,
+        "POINT_Y" : 30.572821798000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.31854469100006,
+        "y" : 30.572821798000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 224,
+        "FID_tmpSample_label" : 371,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32034132100011,
+        "POINT_Y" : 30.572821798000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32034132100011,
+        "y" : 30.572821798000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 225,
+        "FID_tmpSample_label" : 372,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32213795200005,
+        "POINT_Y" : 30.572821798000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32213795200005,
+        "y" : 30.572821798000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 226,
+        "FID_tmpSample_label" : 373,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32393458200011,
+        "POINT_Y" : 30.572821798000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32393458200011,
+        "y" : 30.572821798000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 227,
+        "FID_tmpSample_label" : 374,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32573121300004,
+        "POINT_Y" : 30.572821798000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32573121300004,
+        "y" : 30.572821798000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 228,
+        "FID_tmpSample_label" : 375,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32752784400009,
+        "POINT_Y" : 30.572821798000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32752784400009,
+        "y" : 30.572821798000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 229,
+        "FID_tmpSample_label" : 376,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32932447400003,
+        "POINT_Y" : 30.572821798000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32932447400003,
+        "y" : 30.572821798000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 230,
+        "FID_tmpSample_label" : 377,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33112110500008,
+        "POINT_Y" : 30.572821798000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33112110500008,
+        "y" : 30.572821798000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 231,
+        "FID_tmpSample_label" : 378,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33291773500002,
+        "POINT_Y" : 30.572821798000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33291773500002,
+        "y" : 30.572821798000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 232,
+        "FID_tmpSample_label" : 379,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33471436600007,
+        "POINT_Y" : 30.572821798000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33471436600007,
+        "y" : 30.572821798000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 233,
+        "FID_tmpSample_label" : 380,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33651099600002,
+        "POINT_Y" : 30.572821798000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33651099600002,
+        "y" : 30.572821798000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 234,
+        "FID_tmpSample_label" : 381,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33830762700006,
+        "POINT_Y" : 30.572821798000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33830762700006,
+        "y" : 30.572821798000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 235,
+        "FID_tmpSample_label" : 382,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34010425800011,
+        "POINT_Y" : 30.572821798000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34010425800011,
+        "y" : 30.572821798000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 236,
+        "FID_tmpSample_label" : 383,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34190088800005,
+        "POINT_Y" : 30.572821798000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34190088800005,
+        "y" : 30.572821798000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 237,
+        "FID_tmpSample_label" : 384,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.3436975190001,
+        "POINT_Y" : 30.572821798000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.3436975190001,
+        "y" : 30.572821798000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 238,
+        "FID_tmpSample_label" : 385,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34549414900005,
+        "POINT_Y" : 30.572821798000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34549414900005,
+        "y" : 30.572821798000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 239,
+        "FID_tmpSample_label" : 386,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34729078000009,
+        "POINT_Y" : 30.572821798000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34729078000009,
+        "y" : 30.572821798000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 240,
+        "FID_tmpSample_label" : 387,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34908741000004,
+        "POINT_Y" : 30.572821798000064,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34908741000004,
+        "y" : 30.572821798000064
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 241,
+        "FID_tmpSample_label" : 397,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32034132100011,
+        "POINT_Y" : 30.574368655000058,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32034132100011,
+        "y" : 30.574368655000058
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 242,
+        "FID_tmpSample_label" : 398,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32213795200005,
+        "POINT_Y" : 30.574368655000058,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32213795200005,
+        "y" : 30.574368655000058
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 243,
+        "FID_tmpSample_label" : 399,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32393458200011,
+        "POINT_Y" : 30.574368655000058,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32393458200011,
+        "y" : 30.574368655000058
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 244,
+        "FID_tmpSample_label" : 400,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32573121300004,
+        "POINT_Y" : 30.574368655000058,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32573121300004,
+        "y" : 30.574368655000058
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 245,
+        "FID_tmpSample_label" : 401,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32752784400009,
+        "POINT_Y" : 30.574368655000058,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32752784400009,
+        "y" : 30.574368655000058
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 246,
+        "FID_tmpSample_label" : 402,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32932447400003,
+        "POINT_Y" : 30.574368655000058,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32932447400003,
+        "y" : 30.574368655000058
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 247,
+        "FID_tmpSample_label" : 403,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33112110500008,
+        "POINT_Y" : 30.574368655000058,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33112110500008,
+        "y" : 30.574368655000058
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 248,
+        "FID_tmpSample_label" : 404,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33291773500002,
+        "POINT_Y" : 30.574368655000058,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33291773500002,
+        "y" : 30.574368655000058
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 249,
+        "FID_tmpSample_label" : 405,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33471436600007,
+        "POINT_Y" : 30.574368655000058,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33471436600007,
+        "y" : 30.574368655000058
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 250,
+        "FID_tmpSample_label" : 406,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33651099600002,
+        "POINT_Y" : 30.574368655000058,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33651099600002,
+        "y" : 30.574368655000058
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 251,
+        "FID_tmpSample_label" : 407,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33830762700006,
+        "POINT_Y" : 30.574368655000058,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33830762700006,
+        "y" : 30.574368655000058
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 252,
+        "FID_tmpSample_label" : 408,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34010425800011,
+        "POINT_Y" : 30.574368655000058,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34010425800011,
+        "y" : 30.574368655000058
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 253,
+        "FID_tmpSample_label" : 409,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34190088800005,
+        "POINT_Y" : 30.574368655000058,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34190088800005,
+        "y" : 30.574368655000058
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 254,
+        "FID_tmpSample_label" : 410,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.3436975190001,
+        "POINT_Y" : 30.574368655000058,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.3436975190001,
+        "y" : 30.574368655000058
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 255,
+        "FID_tmpSample_label" : 411,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34549414900005,
+        "POINT_Y" : 30.574368655000058,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34549414900005,
+        "y" : 30.574368655000058
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 256,
+        "FID_tmpSample_label" : 412,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34729078000009,
+        "POINT_Y" : 30.574368655000058,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34729078000009,
+        "y" : 30.574368655000058
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 257,
+        "FID_tmpSample_label" : 413,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34908741000004,
+        "POINT_Y" : 30.574368655000058,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34908741000004,
+        "y" : 30.574368655000058
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 258,
+        "FID_tmpSample_label" : 414,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.35088404100009,
+        "POINT_Y" : 30.574368655000058,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.35088404100009,
+        "y" : 30.574368655000058
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 259,
+        "FID_tmpSample_label" : 425,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32393458200011,
+        "POINT_Y" : 30.575915487000032,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32393458200011,
+        "y" : 30.575915487000032
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 260,
+        "FID_tmpSample_label" : 426,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32573121300004,
+        "POINT_Y" : 30.575915487000032,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32573121300004,
+        "y" : 30.575915487000032
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 261,
+        "FID_tmpSample_label" : 427,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32752784400009,
+        "POINT_Y" : 30.575915487000032,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32752784400009,
+        "y" : 30.575915487000032
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 262,
+        "FID_tmpSample_label" : 428,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32932447400003,
+        "POINT_Y" : 30.575915487000032,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32932447400003,
+        "y" : 30.575915487000032
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 263,
+        "FID_tmpSample_label" : 429,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33112110500008,
+        "POINT_Y" : 30.575915487000032,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33112110500008,
+        "y" : 30.575915487000032
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 264,
+        "FID_tmpSample_label" : 430,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33291773500002,
+        "POINT_Y" : 30.575915487000032,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33291773500002,
+        "y" : 30.575915487000032
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 265,
+        "FID_tmpSample_label" : 431,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33471436600007,
+        "POINT_Y" : 30.575915487000032,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33471436600007,
+        "y" : 30.575915487000032
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 266,
+        "FID_tmpSample_label" : 432,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33651099600002,
+        "POINT_Y" : 30.575915487000032,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33651099600002,
+        "y" : 30.575915487000032
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 267,
+        "FID_tmpSample_label" : 433,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33830762700006,
+        "POINT_Y" : 30.575915487000032,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33830762700006,
+        "y" : 30.575915487000032
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 268,
+        "FID_tmpSample_label" : 434,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34010425800011,
+        "POINT_Y" : 30.575915487000032,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34010425800011,
+        "y" : 30.575915487000032
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 269,
+        "FID_tmpSample_label" : 435,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34190088800005,
+        "POINT_Y" : 30.575915487000032,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34190088800005,
+        "y" : 30.575915487000032
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 270,
+        "FID_tmpSample_label" : 436,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.3436975190001,
+        "POINT_Y" : 30.575915487000032,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.3436975190001,
+        "y" : 30.575915487000032
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 271,
+        "FID_tmpSample_label" : 437,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34549414900005,
+        "POINT_Y" : 30.575915487000032,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34549414900005,
+        "y" : 30.575915487000032
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 272,
+        "FID_tmpSample_label" : 438,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34729078000009,
+        "POINT_Y" : 30.575915487000032,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34729078000009,
+        "y" : 30.575915487000032
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 273,
+        "FID_tmpSample_label" : 439,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34908741000004,
+        "POINT_Y" : 30.575915487000032,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34908741000004,
+        "y" : 30.575915487000032
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 274,
+        "FID_tmpSample_label" : 440,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.35088404100009,
+        "POINT_Y" : 30.575915487000032,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.35088404100009,
+        "y" : 30.575915487000032
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 275,
+        "FID_tmpSample_label" : 454,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.32932447400003,
+        "POINT_Y" : 30.577462294000043,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.32932447400003,
+        "y" : 30.577462294000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 276,
+        "FID_tmpSample_label" : 455,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33112110500008,
+        "POINT_Y" : 30.577462294000043,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33112110500008,
+        "y" : 30.577462294000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 277,
+        "FID_tmpSample_label" : 456,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33291773500002,
+        "POINT_Y" : 30.577462294000043,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33291773500002,
+        "y" : 30.577462294000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 278,
+        "FID_tmpSample_label" : 457,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33471436600007,
+        "POINT_Y" : 30.577462294000043,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33471436600007,
+        "y" : 30.577462294000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 279,
+        "FID_tmpSample_label" : 458,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33651099600002,
+        "POINT_Y" : 30.577462294000043,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33651099600002,
+        "y" : 30.577462294000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 280,
+        "FID_tmpSample_label" : 459,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33830762700006,
+        "POINT_Y" : 30.577462294000043,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33830762700006,
+        "y" : 30.577462294000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 281,
+        "FID_tmpSample_label" : 460,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34010425800011,
+        "POINT_Y" : 30.577462294000043,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34010425800011,
+        "y" : 30.577462294000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 282,
+        "FID_tmpSample_label" : 461,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34190088800005,
+        "POINT_Y" : 30.577462294000043,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34190088800005,
+        "y" : 30.577462294000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 283,
+        "FID_tmpSample_label" : 462,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.3436975190001,
+        "POINT_Y" : 30.577462294000043,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.3436975190001,
+        "y" : 30.577462294000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 284,
+        "FID_tmpSample_label" : 463,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34549414900005,
+        "POINT_Y" : 30.577462294000043,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34549414900005,
+        "y" : 30.577462294000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 285,
+        "FID_tmpSample_label" : 464,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34729078000009,
+        "POINT_Y" : 30.577462294000043,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34729078000009,
+        "y" : 30.577462294000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 286,
+        "FID_tmpSample_label" : 465,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34908741000004,
+        "POINT_Y" : 30.577462294000043,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34908741000004,
+        "y" : 30.577462294000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 287,
+        "FID_tmpSample_label" : 485,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.33830762700006,
+        "POINT_Y" : 30.579009077000023,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.33830762700006,
+        "y" : 30.579009077000023
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 288,
+        "FID_tmpSample_label" : 486,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34010425800011,
+        "POINT_Y" : 30.579009077000023,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34010425800011,
+        "y" : 30.579009077000023
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 289,
+        "FID_tmpSample_label" : 487,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34190088800005,
+        "POINT_Y" : 30.579009077000023,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34190088800005,
+        "y" : 30.579009077000023
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 290,
+        "FID_tmpSample_label" : 488,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.3436975190001,
+        "POINT_Y" : 30.579009077000023,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.3436975190001,
+        "y" : 30.579009077000023
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 291,
+        "FID_tmpSample_label" : 489,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34549414900005,
+        "POINT_Y" : 30.579009077000023,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34549414900005,
+        "y" : 30.579009077000023
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 292,
+        "FID_tmpSample_label" : 490,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34729078000009,
+        "POINT_Y" : 30.579009077000023,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34729078000009,
+        "y" : 30.579009077000023
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 293,
+        "FID_tmpSample_label" : 512,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34010425800011,
+        "POINT_Y" : 30.580555835000041,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34010425800011,
+        "y" : 30.580555835000041
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 294,
+        "FID_tmpSample_label" : 513,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34190088800005,
+        "POINT_Y" : 30.580555835000041,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34190088800005,
+        "y" : 30.580555835000041
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 295,
+        "FID_tmpSample_label" : 514,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.3436975190001,
+        "POINT_Y" : 30.580555835000041,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.3436975190001,
+        "y" : 30.580555835000041
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 296,
+        "FID_tmpSample_label" : 515,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.34549414900005,
+        "POINT_Y" : 30.580555835000041,
+        "GREENWAY_NAME" : "沙湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.34549414900005,
+        "y" : 30.580555835000041
+      }
+    }
+  ]
+}

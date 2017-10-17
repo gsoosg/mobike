@@ -1,0 +1,5651 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "OBJECTID" : "OBJECTID",
+    "FID_tmpSample_label" : "FID_tmpSample_label",
+    "FID_tmpBuffer" : "FID_tmpBuffer",
+    "POINT_X" : "POINT_X",
+    "POINT_Y" : "POINT_Y",
+    "GREENWAY_NAME" : "GREENWAY_NAME"
+  },
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 4326,
+    "latestWkid" : 4326
+  },
+  "fields" : [
+    {
+      "name" : "OBJECTID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "OBJECTID"
+    },
+    {
+      "name" : "FID_tmpSample_label",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "FID_tmpSample_label"
+    },
+    {
+      "name" : "FID_tmpBuffer",
+      "type" : "esriFieldTypeInteger",
+      "alias" : "FID_tmpBuffer"
+    },
+    {
+      "name" : "POINT_X",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "POINT_X"
+    },
+    {
+      "name" : "POINT_Y",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "POINT_Y"
+    },
+    {
+      "name" : "GREENWAY_NAME",
+      "type" : "esriFieldTypeString",
+      "alias" : "GREENWAY_NAME",
+      "length" : 255
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "OBJECTID" : 1,
+        "FID_tmpSample_label" : 8,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17266081900004,
+        "POINT_Y" : 30.63594082000003,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17266081900004,
+        "y" : 30.63594082000003
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 2,
+        "FID_tmpSample_label" : 9,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17445745000009,
+        "POINT_Y" : 30.63594082000003,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17445745000009,
+        "y" : 30.63594082000003
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 3,
+        "FID_tmpSample_label" : 10,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17625408000004,
+        "POINT_Y" : 30.63594082000003,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17625408000004,
+        "y" : 30.63594082000003
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 4,
+        "FID_tmpSample_label" : 11,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17805071100008,
+        "POINT_Y" : 30.63594082000003,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17805071100008,
+        "y" : 30.63594082000003
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 5,
+        "FID_tmpSample_label" : 39,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17266081900004,
+        "POINT_Y" : 30.637486669000054,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17266081900004,
+        "y" : 30.637486669000054
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 6,
+        "FID_tmpSample_label" : 40,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17445745000009,
+        "POINT_Y" : 30.637486669000054,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17445745000009,
+        "y" : 30.637486669000054
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 7,
+        "FID_tmpSample_label" : 41,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17625408000004,
+        "POINT_Y" : 30.637486669000054,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17625408000004,
+        "y" : 30.637486669000054
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 8,
+        "FID_tmpSample_label" : 42,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17805071100008,
+        "POINT_Y" : 30.637486669000054,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17805071100008,
+        "y" : 30.637486669000054
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 9,
+        "FID_tmpSample_label" : 43,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17984734100003,
+        "POINT_Y" : 30.637486669000054,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17984734100003,
+        "y" : 30.637486669000054
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 10,
+        "FID_tmpSample_label" : 44,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18164397200007,
+        "POINT_Y" : 30.637486669000054,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18164397200007,
+        "y" : 30.637486669000054
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 11,
+        "FID_tmpSample_label" : 69,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17086418800011,
+        "POINT_Y" : 30.639032493000059,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17086418800011,
+        "y" : 30.639032493000059
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 12,
+        "FID_tmpSample_label" : 70,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17266081900004,
+        "POINT_Y" : 30.639032493000059,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17266081900004,
+        "y" : 30.639032493000059
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 13,
+        "FID_tmpSample_label" : 71,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17445745000009,
+        "POINT_Y" : 30.639032493000059,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17445745000009,
+        "y" : 30.639032493000059
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 14,
+        "FID_tmpSample_label" : 72,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17625408000004,
+        "POINT_Y" : 30.639032493000059,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17625408000004,
+        "y" : 30.639032493000059
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 15,
+        "FID_tmpSample_label" : 73,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17805071100008,
+        "POINT_Y" : 30.639032493000059,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17805071100008,
+        "y" : 30.639032493000059
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 16,
+        "FID_tmpSample_label" : 74,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17984734100003,
+        "POINT_Y" : 30.639032493000059,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17984734100003,
+        "y" : 30.639032493000059
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 17,
+        "FID_tmpSample_label" : 75,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18164397200007,
+        "POINT_Y" : 30.639032493000059,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18164397200007,
+        "y" : 30.639032493000059
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 18,
+        "FID_tmpSample_label" : 76,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18344060200002,
+        "POINT_Y" : 30.639032493000059,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18344060200002,
+        "y" : 30.639032493000059
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 19,
+        "FID_tmpSample_label" : 82,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.1942203860001,
+        "POINT_Y" : 30.639032493000059,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.1942203860001,
+        "y" : 30.639032493000059
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 20,
+        "FID_tmpSample_label" : 83,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19601701600004,
+        "POINT_Y" : 30.639032493000059,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19601701600004,
+        "y" : 30.639032493000059
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 21,
+        "FID_tmpSample_label" : 84,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19781364700009,
+        "POINT_Y" : 30.639032493000059,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19781364700009,
+        "y" : 30.639032493000059
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 22,
+        "FID_tmpSample_label" : 85,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19961027800002,
+        "POINT_Y" : 30.639032493000059,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19961027800002,
+        "y" : 30.639032493000059
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 23,
+        "FID_tmpSample_label" : 86,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20140690800008,
+        "POINT_Y" : 30.639032493000059,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20140690800008,
+        "y" : 30.639032493000059
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 24,
+        "FID_tmpSample_label" : 99,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16906755800005,
+        "POINT_Y" : 30.640578293000033,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16906755800005,
+        "y" : 30.640578293000033
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 25,
+        "FID_tmpSample_label" : 100,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17086418800011,
+        "POINT_Y" : 30.640578293000033,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17086418800011,
+        "y" : 30.640578293000033
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 26,
+        "FID_tmpSample_label" : 101,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17266081900004,
+        "POINT_Y" : 30.640578293000033,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17266081900004,
+        "y" : 30.640578293000033
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 27,
+        "FID_tmpSample_label" : 102,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17445745000009,
+        "POINT_Y" : 30.640578293000033,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17445745000009,
+        "y" : 30.640578293000033
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 28,
+        "FID_tmpSample_label" : 103,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17625408000004,
+        "POINT_Y" : 30.640578293000033,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17625408000004,
+        "y" : 30.640578293000033
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 29,
+        "FID_tmpSample_label" : 104,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17805071100008,
+        "POINT_Y" : 30.640578293000033,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17805071100008,
+        "y" : 30.640578293000033
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 30,
+        "FID_tmpSample_label" : 105,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17984734100003,
+        "POINT_Y" : 30.640578293000033,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17984734100003,
+        "y" : 30.640578293000033
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 31,
+        "FID_tmpSample_label" : 106,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18164397200007,
+        "POINT_Y" : 30.640578293000033,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18164397200007,
+        "y" : 30.640578293000033
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 32,
+        "FID_tmpSample_label" : 107,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18344060200002,
+        "POINT_Y" : 30.640578293000033,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18344060200002,
+        "y" : 30.640578293000033
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 33,
+        "FID_tmpSample_label" : 108,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18523723300007,
+        "POINT_Y" : 30.640578293000033,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18523723300007,
+        "y" : 30.640578293000033
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 34,
+        "FID_tmpSample_label" : 109,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18703386400011,
+        "POINT_Y" : 30.640578293000033,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18703386400011,
+        "y" : 30.640578293000033
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 35,
+        "FID_tmpSample_label" : 110,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18883049400006,
+        "POINT_Y" : 30.640578293000033,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18883049400006,
+        "y" : 30.640578293000033
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 36,
+        "FID_tmpSample_label" : 111,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19062712500011,
+        "POINT_Y" : 30.640578293000033,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19062712500011,
+        "y" : 30.640578293000033
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 37,
+        "FID_tmpSample_label" : 112,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19242375500005,
+        "POINT_Y" : 30.640578293000033,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19242375500005,
+        "y" : 30.640578293000033
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 38,
+        "FID_tmpSample_label" : 113,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.1942203860001,
+        "POINT_Y" : 30.640578293000033,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.1942203860001,
+        "y" : 30.640578293000033
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 39,
+        "FID_tmpSample_label" : 114,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19601701600004,
+        "POINT_Y" : 30.640578293000033,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19601701600004,
+        "y" : 30.640578293000033
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 40,
+        "FID_tmpSample_label" : 115,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19781364700009,
+        "POINT_Y" : 30.640578293000033,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19781364700009,
+        "y" : 30.640578293000033
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 41,
+        "FID_tmpSample_label" : 116,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19961027800002,
+        "POINT_Y" : 30.640578293000033,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19961027800002,
+        "y" : 30.640578293000033
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 42,
+        "FID_tmpSample_label" : 117,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20140690800008,
+        "POINT_Y" : 30.640578293000033,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20140690800008,
+        "y" : 30.640578293000033
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 43,
+        "FID_tmpSample_label" : 118,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20320353900001,
+        "POINT_Y" : 30.640578293000033,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20320353900001,
+        "y" : 30.640578293000033
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 44,
+        "FID_tmpSample_label" : 130,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16906755800005,
+        "POINT_Y" : 30.642124068000044,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16906755800005,
+        "y" : 30.642124068000044
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 45,
+        "FID_tmpSample_label" : 131,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17086418800011,
+        "POINT_Y" : 30.642124068000044,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17086418800011,
+        "y" : 30.642124068000044
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 46,
+        "FID_tmpSample_label" : 132,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17266081900004,
+        "POINT_Y" : 30.642124068000044,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17266081900004,
+        "y" : 30.642124068000044
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 47,
+        "FID_tmpSample_label" : 133,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17445745000009,
+        "POINT_Y" : 30.642124068000044,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17445745000009,
+        "y" : 30.642124068000044
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 48,
+        "FID_tmpSample_label" : 134,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17625408000004,
+        "POINT_Y" : 30.642124068000044,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17625408000004,
+        "y" : 30.642124068000044
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 49,
+        "FID_tmpSample_label" : 135,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17805071100008,
+        "POINT_Y" : 30.642124068000044,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17805071100008,
+        "y" : 30.642124068000044
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 50,
+        "FID_tmpSample_label" : 136,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17984734100003,
+        "POINT_Y" : 30.642124068000044,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17984734100003,
+        "y" : 30.642124068000044
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 51,
+        "FID_tmpSample_label" : 137,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18164397200007,
+        "POINT_Y" : 30.642124068000044,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18164397200007,
+        "y" : 30.642124068000044
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 52,
+        "FID_tmpSample_label" : 138,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18344060200002,
+        "POINT_Y" : 30.642124068000044,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18344060200002,
+        "y" : 30.642124068000044
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 53,
+        "FID_tmpSample_label" : 139,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18523723300007,
+        "POINT_Y" : 30.642124068000044,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18523723300007,
+        "y" : 30.642124068000044
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 54,
+        "FID_tmpSample_label" : 140,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18703386400011,
+        "POINT_Y" : 30.642124068000044,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18703386400011,
+        "y" : 30.642124068000044
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 55,
+        "FID_tmpSample_label" : 141,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18883049400006,
+        "POINT_Y" : 30.642124068000044,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18883049400006,
+        "y" : 30.642124068000044
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 56,
+        "FID_tmpSample_label" : 142,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19062712500011,
+        "POINT_Y" : 30.642124068000044,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19062712500011,
+        "y" : 30.642124068000044
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 57,
+        "FID_tmpSample_label" : 143,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19242375500005,
+        "POINT_Y" : 30.642124068000044,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19242375500005,
+        "y" : 30.642124068000044
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 58,
+        "FID_tmpSample_label" : 144,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.1942203860001,
+        "POINT_Y" : 30.642124068000044,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.1942203860001,
+        "y" : 30.642124068000044
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 59,
+        "FID_tmpSample_label" : 145,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19601701600004,
+        "POINT_Y" : 30.642124068000044,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19601701600004,
+        "y" : 30.642124068000044
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 60,
+        "FID_tmpSample_label" : 146,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19781364700009,
+        "POINT_Y" : 30.642124068000044,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19781364700009,
+        "y" : 30.642124068000044
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 61,
+        "FID_tmpSample_label" : 147,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19961027800002,
+        "POINT_Y" : 30.642124068000044,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19961027800002,
+        "y" : 30.642124068000044
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 62,
+        "FID_tmpSample_label" : 148,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20140690800008,
+        "POINT_Y" : 30.642124068000044,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20140690800008,
+        "y" : 30.642124068000044
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 63,
+        "FID_tmpSample_label" : 149,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20320353900001,
+        "POINT_Y" : 30.642124068000044,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20320353900001,
+        "y" : 30.642124068000044
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 64,
+        "FID_tmpSample_label" : 159,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16547429700006,
+        "POINT_Y" : 30.643669818000035,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16547429700006,
+        "y" : 30.643669818000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 65,
+        "FID_tmpSample_label" : 160,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16727092700012,
+        "POINT_Y" : 30.643669818000035,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16727092700012,
+        "y" : 30.643669818000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 66,
+        "FID_tmpSample_label" : 161,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16906755800005,
+        "POINT_Y" : 30.643669818000035,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16906755800005,
+        "y" : 30.643669818000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 67,
+        "FID_tmpSample_label" : 162,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17086418800011,
+        "POINT_Y" : 30.643669818000035,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17086418800011,
+        "y" : 30.643669818000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 68,
+        "FID_tmpSample_label" : 163,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17266081900004,
+        "POINT_Y" : 30.643669818000035,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17266081900004,
+        "y" : 30.643669818000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 69,
+        "FID_tmpSample_label" : 164,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17445745000009,
+        "POINT_Y" : 30.643669818000035,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17445745000009,
+        "y" : 30.643669818000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 70,
+        "FID_tmpSample_label" : 165,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17625408000004,
+        "POINT_Y" : 30.643669818000035,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17625408000004,
+        "y" : 30.643669818000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 71,
+        "FID_tmpSample_label" : 166,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17805071100008,
+        "POINT_Y" : 30.643669818000035,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17805071100008,
+        "y" : 30.643669818000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 72,
+        "FID_tmpSample_label" : 167,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17984734100003,
+        "POINT_Y" : 30.643669818000035,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17984734100003,
+        "y" : 30.643669818000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 73,
+        "FID_tmpSample_label" : 168,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18164397200007,
+        "POINT_Y" : 30.643669818000035,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18164397200007,
+        "y" : 30.643669818000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 74,
+        "FID_tmpSample_label" : 169,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18344060200002,
+        "POINT_Y" : 30.643669818000035,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18344060200002,
+        "y" : 30.643669818000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 75,
+        "FID_tmpSample_label" : 170,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18523723300007,
+        "POINT_Y" : 30.643669818000035,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18523723300007,
+        "y" : 30.643669818000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 76,
+        "FID_tmpSample_label" : 171,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18703386400011,
+        "POINT_Y" : 30.643669818000035,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18703386400011,
+        "y" : 30.643669818000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 77,
+        "FID_tmpSample_label" : 172,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18883049400006,
+        "POINT_Y" : 30.643669818000035,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18883049400006,
+        "y" : 30.643669818000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 78,
+        "FID_tmpSample_label" : 173,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19062712500011,
+        "POINT_Y" : 30.643669818000035,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19062712500011,
+        "y" : 30.643669818000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 79,
+        "FID_tmpSample_label" : 174,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19242375500005,
+        "POINT_Y" : 30.643669818000035,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19242375500005,
+        "y" : 30.643669818000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 80,
+        "FID_tmpSample_label" : 175,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.1942203860001,
+        "POINT_Y" : 30.643669818000035,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.1942203860001,
+        "y" : 30.643669818000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 81,
+        "FID_tmpSample_label" : 176,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19601701600004,
+        "POINT_Y" : 30.643669818000035,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19601701600004,
+        "y" : 30.643669818000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 82,
+        "FID_tmpSample_label" : 177,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19781364700009,
+        "POINT_Y" : 30.643669818000035,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19781364700009,
+        "y" : 30.643669818000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 83,
+        "FID_tmpSample_label" : 178,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19961027800002,
+        "POINT_Y" : 30.643669818000035,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19961027800002,
+        "y" : 30.643669818000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 84,
+        "FID_tmpSample_label" : 179,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20140690800008,
+        "POINT_Y" : 30.643669818000035,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20140690800008,
+        "y" : 30.643669818000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 85,
+        "FID_tmpSample_label" : 180,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20320353900001,
+        "POINT_Y" : 30.643669818000035,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20320353900001,
+        "y" : 30.643669818000035
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 86,
+        "FID_tmpSample_label" : 189,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16367766600001,
+        "POINT_Y" : 30.645215544000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16367766600001,
+        "y" : 30.645215544000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 87,
+        "FID_tmpSample_label" : 190,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16547429700006,
+        "POINT_Y" : 30.645215544000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16547429700006,
+        "y" : 30.645215544000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 88,
+        "FID_tmpSample_label" : 191,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16727092700012,
+        "POINT_Y" : 30.645215544000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16727092700012,
+        "y" : 30.645215544000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 89,
+        "FID_tmpSample_label" : 192,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16906755800005,
+        "POINT_Y" : 30.645215544000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16906755800005,
+        "y" : 30.645215544000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 90,
+        "FID_tmpSample_label" : 193,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17086418800011,
+        "POINT_Y" : 30.645215544000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17086418800011,
+        "y" : 30.645215544000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 91,
+        "FID_tmpSample_label" : 194,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17266081900004,
+        "POINT_Y" : 30.645215544000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17266081900004,
+        "y" : 30.645215544000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 92,
+        "FID_tmpSample_label" : 195,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17445745000009,
+        "POINT_Y" : 30.645215544000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17445745000009,
+        "y" : 30.645215544000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 93,
+        "FID_tmpSample_label" : 198,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17984734100003,
+        "POINT_Y" : 30.645215544000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17984734100003,
+        "y" : 30.645215544000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 94,
+        "FID_tmpSample_label" : 199,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18164397200007,
+        "POINT_Y" : 30.645215544000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18164397200007,
+        "y" : 30.645215544000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 95,
+        "FID_tmpSample_label" : 200,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18344060200002,
+        "POINT_Y" : 30.645215544000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18344060200002,
+        "y" : 30.645215544000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 96,
+        "FID_tmpSample_label" : 201,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18523723300007,
+        "POINT_Y" : 30.645215544000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18523723300007,
+        "y" : 30.645215544000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 97,
+        "FID_tmpSample_label" : 202,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18703386400011,
+        "POINT_Y" : 30.645215544000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18703386400011,
+        "y" : 30.645215544000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 98,
+        "FID_tmpSample_label" : 203,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18883049400006,
+        "POINT_Y" : 30.645215544000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18883049400006,
+        "y" : 30.645215544000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 99,
+        "FID_tmpSample_label" : 204,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19062712500011,
+        "POINT_Y" : 30.645215544000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19062712500011,
+        "y" : 30.645215544000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 100,
+        "FID_tmpSample_label" : 205,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19242375500005,
+        "POINT_Y" : 30.645215544000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19242375500005,
+        "y" : 30.645215544000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 101,
+        "FID_tmpSample_label" : 206,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.1942203860001,
+        "POINT_Y" : 30.645215544000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.1942203860001,
+        "y" : 30.645215544000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 102,
+        "FID_tmpSample_label" : 207,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19601701600004,
+        "POINT_Y" : 30.645215544000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19601701600004,
+        "y" : 30.645215544000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 103,
+        "FID_tmpSample_label" : 208,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19781364700009,
+        "POINT_Y" : 30.645215544000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19781364700009,
+        "y" : 30.645215544000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 104,
+        "FID_tmpSample_label" : 209,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19961027800002,
+        "POINT_Y" : 30.645215544000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19961027800002,
+        "y" : 30.645215544000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 105,
+        "FID_tmpSample_label" : 210,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20140690800008,
+        "POINT_Y" : 30.645215544000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20140690800008,
+        "y" : 30.645215544000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 106,
+        "FID_tmpSample_label" : 219,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16188103600007,
+        "POINT_Y" : 30.64676124500005,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16188103600007,
+        "y" : 30.64676124500005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 107,
+        "FID_tmpSample_label" : 220,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16367766600001,
+        "POINT_Y" : 30.64676124500005,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16367766600001,
+        "y" : 30.64676124500005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 108,
+        "FID_tmpSample_label" : 221,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16547429700006,
+        "POINT_Y" : 30.64676124500005,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16547429700006,
+        "y" : 30.64676124500005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 109,
+        "FID_tmpSample_label" : 222,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16727092700012,
+        "POINT_Y" : 30.64676124500005,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16727092700012,
+        "y" : 30.64676124500005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 110,
+        "FID_tmpSample_label" : 223,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16906755800005,
+        "POINT_Y" : 30.64676124500005,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16906755800005,
+        "y" : 30.64676124500005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 111,
+        "FID_tmpSample_label" : 224,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17086418800011,
+        "POINT_Y" : 30.64676124500005,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17086418800011,
+        "y" : 30.64676124500005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 112,
+        "FID_tmpSample_label" : 225,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17266081900004,
+        "POINT_Y" : 30.64676124500005,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17266081900004,
+        "y" : 30.64676124500005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 113,
+        "FID_tmpSample_label" : 226,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17445745000009,
+        "POINT_Y" : 30.64676124500005,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17445745000009,
+        "y" : 30.64676124500005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 114,
+        "FID_tmpSample_label" : 231,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18344060200002,
+        "POINT_Y" : 30.64676124500005,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18344060200002,
+        "y" : 30.64676124500005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 115,
+        "FID_tmpSample_label" : 232,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18523723300007,
+        "POINT_Y" : 30.64676124500005,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18523723300007,
+        "y" : 30.64676124500005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 116,
+        "FID_tmpSample_label" : 233,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18703386400011,
+        "POINT_Y" : 30.64676124500005,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18703386400011,
+        "y" : 30.64676124500005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 117,
+        "FID_tmpSample_label" : 234,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18883049400006,
+        "POINT_Y" : 30.64676124500005,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18883049400006,
+        "y" : 30.64676124500005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 118,
+        "FID_tmpSample_label" : 235,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19062712500011,
+        "POINT_Y" : 30.64676124500005,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19062712500011,
+        "y" : 30.64676124500005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 119,
+        "FID_tmpSample_label" : 236,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19242375500005,
+        "POINT_Y" : 30.64676124500005,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19242375500005,
+        "y" : 30.64676124500005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 120,
+        "FID_tmpSample_label" : 237,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.1942203860001,
+        "POINT_Y" : 30.64676124500005,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.1942203860001,
+        "y" : 30.64676124500005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 121,
+        "FID_tmpSample_label" : 238,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19601701600004,
+        "POINT_Y" : 30.64676124500005,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19601701600004,
+        "y" : 30.64676124500005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 122,
+        "FID_tmpSample_label" : 239,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19781364700009,
+        "POINT_Y" : 30.64676124500005,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19781364700009,
+        "y" : 30.64676124500005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 123,
+        "FID_tmpSample_label" : 240,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19961027800002,
+        "POINT_Y" : 30.64676124500005,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19961027800002,
+        "y" : 30.64676124500005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 124,
+        "FID_tmpSample_label" : 241,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20140690800008,
+        "POINT_Y" : 30.64676124500005,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20140690800008,
+        "y" : 30.64676124500005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 125,
+        "FID_tmpSample_label" : 242,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20320353900001,
+        "POINT_Y" : 30.64676124500005,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20320353900001,
+        "y" : 30.64676124500005
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 126,
+        "FID_tmpSample_label" : 250,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16188103600007,
+        "POINT_Y" : 30.648306921000028,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16188103600007,
+        "y" : 30.648306921000028
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 127,
+        "FID_tmpSample_label" : 251,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16367766600001,
+        "POINT_Y" : 30.648306921000028,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16367766600001,
+        "y" : 30.648306921000028
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 128,
+        "FID_tmpSample_label" : 252,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16547429700006,
+        "POINT_Y" : 30.648306921000028,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16547429700006,
+        "y" : 30.648306921000028
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 129,
+        "FID_tmpSample_label" : 253,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16727092700012,
+        "POINT_Y" : 30.648306921000028,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16727092700012,
+        "y" : 30.648306921000028
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 130,
+        "FID_tmpSample_label" : 254,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16906755800005,
+        "POINT_Y" : 30.648306921000028,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16906755800005,
+        "y" : 30.648306921000028
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 131,
+        "FID_tmpSample_label" : 255,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17086418800011,
+        "POINT_Y" : 30.648306921000028,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17086418800011,
+        "y" : 30.648306921000028
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 132,
+        "FID_tmpSample_label" : 256,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17266081900004,
+        "POINT_Y" : 30.648306921000028,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17266081900004,
+        "y" : 30.648306921000028
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 133,
+        "FID_tmpSample_label" : 267,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19242375500005,
+        "POINT_Y" : 30.648306921000028,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19242375500005,
+        "y" : 30.648306921000028
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 134,
+        "FID_tmpSample_label" : 268,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.1942203860001,
+        "POINT_Y" : 30.648306921000028,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.1942203860001,
+        "y" : 30.648306921000028
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 135,
+        "FID_tmpSample_label" : 269,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19601701600004,
+        "POINT_Y" : 30.648306921000028,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19601701600004,
+        "y" : 30.648306921000028
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 136,
+        "FID_tmpSample_label" : 270,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19781364700009,
+        "POINT_Y" : 30.648306921000028,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19781364700009,
+        "y" : 30.648306921000028
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 137,
+        "FID_tmpSample_label" : 271,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19961027800002,
+        "POINT_Y" : 30.648306921000028,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19961027800002,
+        "y" : 30.648306921000028
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 138,
+        "FID_tmpSample_label" : 272,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20140690800008,
+        "POINT_Y" : 30.648306921000028,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20140690800008,
+        "y" : 30.648306921000028
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 139,
+        "FID_tmpSample_label" : 273,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20320353900001,
+        "POINT_Y" : 30.648306921000028,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20320353900001,
+        "y" : 30.648306921000028
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 140,
+        "FID_tmpSample_label" : 274,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20500016900007,
+        "POINT_Y" : 30.648306921000028,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20500016900007,
+        "y" : 30.648306921000028
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 141,
+        "FID_tmpSample_label" : 275,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20679680000001,
+        "POINT_Y" : 30.648306921000028,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20679680000001,
+        "y" : 30.648306921000028
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 142,
+        "FID_tmpSample_label" : 281,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16188103600007,
+        "POINT_Y" : 30.649852572000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16188103600007,
+        "y" : 30.649852572000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 143,
+        "FID_tmpSample_label" : 282,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16367766600001,
+        "POINT_Y" : 30.649852572000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16367766600001,
+        "y" : 30.649852572000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 144,
+        "FID_tmpSample_label" : 283,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16547429700006,
+        "POINT_Y" : 30.649852572000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16547429700006,
+        "y" : 30.649852572000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 145,
+        "FID_tmpSample_label" : 284,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16727092700012,
+        "POINT_Y" : 30.649852572000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16727092700012,
+        "y" : 30.649852572000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 146,
+        "FID_tmpSample_label" : 285,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16906755800005,
+        "POINT_Y" : 30.649852572000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16906755800005,
+        "y" : 30.649852572000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 147,
+        "FID_tmpSample_label" : 298,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19242375500005,
+        "POINT_Y" : 30.649852572000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19242375500005,
+        "y" : 30.649852572000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 148,
+        "FID_tmpSample_label" : 299,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.1942203860001,
+        "POINT_Y" : 30.649852572000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.1942203860001,
+        "y" : 30.649852572000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 149,
+        "FID_tmpSample_label" : 300,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19601701600004,
+        "POINT_Y" : 30.649852572000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19601701600004,
+        "y" : 30.649852572000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 150,
+        "FID_tmpSample_label" : 301,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19781364700009,
+        "POINT_Y" : 30.649852572000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19781364700009,
+        "y" : 30.649852572000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 151,
+        "FID_tmpSample_label" : 302,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19961027800002,
+        "POINT_Y" : 30.649852572000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19961027800002,
+        "y" : 30.649852572000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 152,
+        "FID_tmpSample_label" : 303,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20140690800008,
+        "POINT_Y" : 30.649852572000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20140690800008,
+        "y" : 30.649852572000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 153,
+        "FID_tmpSample_label" : 304,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20320353900001,
+        "POINT_Y" : 30.649852572000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20320353900001,
+        "y" : 30.649852572000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 154,
+        "FID_tmpSample_label" : 305,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20500016900007,
+        "POINT_Y" : 30.649852572000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20500016900007,
+        "y" : 30.649852572000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 155,
+        "FID_tmpSample_label" : 306,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20679680000001,
+        "POINT_Y" : 30.649852572000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20679680000001,
+        "y" : 30.649852572000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 156,
+        "FID_tmpSample_label" : 307,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20859343000006,
+        "POINT_Y" : 30.649852572000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20859343000006,
+        "y" : 30.649852572000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 157,
+        "FID_tmpSample_label" : 308,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.21039006100011,
+        "POINT_Y" : 30.649852572000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.21039006100011,
+        "y" : 30.649852572000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 158,
+        "FID_tmpSample_label" : 311,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16008440500002,
+        "POINT_Y" : 30.651398199000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16008440500002,
+        "y" : 30.651398199000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 159,
+        "FID_tmpSample_label" : 312,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16188103600007,
+        "POINT_Y" : 30.651398199000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16188103600007,
+        "y" : 30.651398199000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 160,
+        "FID_tmpSample_label" : 313,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16367766600001,
+        "POINT_Y" : 30.651398199000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16367766600001,
+        "y" : 30.651398199000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 161,
+        "FID_tmpSample_label" : 314,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16547429700006,
+        "POINT_Y" : 30.651398199000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16547429700006,
+        "y" : 30.651398199000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 162,
+        "FID_tmpSample_label" : 315,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16727092700012,
+        "POINT_Y" : 30.651398199000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16727092700012,
+        "y" : 30.651398199000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 163,
+        "FID_tmpSample_label" : 330,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.1942203860001,
+        "POINT_Y" : 30.651398199000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.1942203860001,
+        "y" : 30.651398199000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 164,
+        "FID_tmpSample_label" : 331,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19601701600004,
+        "POINT_Y" : 30.651398199000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19601701600004,
+        "y" : 30.651398199000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 165,
+        "FID_tmpSample_label" : 332,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19781364700009,
+        "POINT_Y" : 30.651398199000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19781364700009,
+        "y" : 30.651398199000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 166,
+        "FID_tmpSample_label" : 333,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19961027800002,
+        "POINT_Y" : 30.651398199000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19961027800002,
+        "y" : 30.651398199000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 167,
+        "FID_tmpSample_label" : 334,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20140690800008,
+        "POINT_Y" : 30.651398199000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20140690800008,
+        "y" : 30.651398199000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 168,
+        "FID_tmpSample_label" : 335,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20320353900001,
+        "POINT_Y" : 30.651398199000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20320353900001,
+        "y" : 30.651398199000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 169,
+        "FID_tmpSample_label" : 336,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20500016900007,
+        "POINT_Y" : 30.651398199000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20500016900007,
+        "y" : 30.651398199000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 170,
+        "FID_tmpSample_label" : 337,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20679680000001,
+        "POINT_Y" : 30.651398199000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20679680000001,
+        "y" : 30.651398199000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 171,
+        "FID_tmpSample_label" : 338,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20859343000006,
+        "POINT_Y" : 30.651398199000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20859343000006,
+        "y" : 30.651398199000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 172,
+        "FID_tmpSample_label" : 339,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.21039006100011,
+        "POINT_Y" : 30.651398199000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.21039006100011,
+        "y" : 30.651398199000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 173,
+        "FID_tmpSample_label" : 342,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16008440500002,
+        "POINT_Y" : 30.652943801000049,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16008440500002,
+        "y" : 30.652943801000049
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 174,
+        "FID_tmpSample_label" : 343,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16188103600007,
+        "POINT_Y" : 30.652943801000049,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16188103600007,
+        "y" : 30.652943801000049
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 175,
+        "FID_tmpSample_label" : 344,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16367766600001,
+        "POINT_Y" : 30.652943801000049,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16367766600001,
+        "y" : 30.652943801000049
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 176,
+        "FID_tmpSample_label" : 345,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16547429700006,
+        "POINT_Y" : 30.652943801000049,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16547429700006,
+        "y" : 30.652943801000049
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 177,
+        "FID_tmpSample_label" : 346,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16727092700012,
+        "POINT_Y" : 30.652943801000049,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16727092700012,
+        "y" : 30.652943801000049
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 178,
+        "FID_tmpSample_label" : 364,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19961027800002,
+        "POINT_Y" : 30.652943801000049,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19961027800002,
+        "y" : 30.652943801000049
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 179,
+        "FID_tmpSample_label" : 365,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20140690800008,
+        "POINT_Y" : 30.652943801000049,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20140690800008,
+        "y" : 30.652943801000049
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 180,
+        "FID_tmpSample_label" : 366,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20320353900001,
+        "POINT_Y" : 30.652943801000049,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20320353900001,
+        "y" : 30.652943801000049
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 181,
+        "FID_tmpSample_label" : 367,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20500016900007,
+        "POINT_Y" : 30.652943801000049,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20500016900007,
+        "y" : 30.652943801000049
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 182,
+        "FID_tmpSample_label" : 368,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20679680000001,
+        "POINT_Y" : 30.652943801000049,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20679680000001,
+        "y" : 30.652943801000049
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 183,
+        "FID_tmpSample_label" : 369,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20859343000006,
+        "POINT_Y" : 30.652943801000049,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20859343000006,
+        "y" : 30.652943801000049
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 184,
+        "FID_tmpSample_label" : 370,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.21039006100011,
+        "POINT_Y" : 30.652943801000049,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.21039006100011,
+        "y" : 30.652943801000049
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 185,
+        "FID_tmpSample_label" : 371,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.21218669200005,
+        "POINT_Y" : 30.652943801000049,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.21218669200005,
+        "y" : 30.652943801000049
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 186,
+        "FID_tmpSample_label" : 373,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16008440500002,
+        "POINT_Y" : 30.654489378000051,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16008440500002,
+        "y" : 30.654489378000051
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 187,
+        "FID_tmpSample_label" : 374,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16188103600007,
+        "POINT_Y" : 30.654489378000051,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16188103600007,
+        "y" : 30.654489378000051
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 188,
+        "FID_tmpSample_label" : 375,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16367766600001,
+        "POINT_Y" : 30.654489378000051,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16367766600001,
+        "y" : 30.654489378000051
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 189,
+        "FID_tmpSample_label" : 376,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16547429700006,
+        "POINT_Y" : 30.654489378000051,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16547429700006,
+        "y" : 30.654489378000051
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 190,
+        "FID_tmpSample_label" : 377,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16727092700012,
+        "POINT_Y" : 30.654489378000051,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16727092700012,
+        "y" : 30.654489378000051
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 191,
+        "FID_tmpSample_label" : 397,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20320353900001,
+        "POINT_Y" : 30.654489378000051,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20320353900001,
+        "y" : 30.654489378000051
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 192,
+        "FID_tmpSample_label" : 398,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20500016900007,
+        "POINT_Y" : 30.654489378000051,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20500016900007,
+        "y" : 30.654489378000051
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 193,
+        "FID_tmpSample_label" : 399,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20679680000001,
+        "POINT_Y" : 30.654489378000051,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20679680000001,
+        "y" : 30.654489378000051
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 194,
+        "FID_tmpSample_label" : 400,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20859343000006,
+        "POINT_Y" : 30.654489378000051,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20859343000006,
+        "y" : 30.654489378000051
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 195,
+        "FID_tmpSample_label" : 401,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.21039006100011,
+        "POINT_Y" : 30.654489378000051,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.21039006100011,
+        "y" : 30.654489378000051
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 196,
+        "FID_tmpSample_label" : 402,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.21218669200005,
+        "POINT_Y" : 30.654489378000051,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.21218669200005,
+        "y" : 30.654489378000051
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 197,
+        "FID_tmpSample_label" : 404,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16008440500002,
+        "POINT_Y" : 30.656034931000079,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16008440500002,
+        "y" : 30.656034931000079
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 198,
+        "FID_tmpSample_label" : 405,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16188103600007,
+        "POINT_Y" : 30.656034931000079,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16188103600007,
+        "y" : 30.656034931000079
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 199,
+        "FID_tmpSample_label" : 406,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16367766600001,
+        "POINT_Y" : 30.656034931000079,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16367766600001,
+        "y" : 30.656034931000079
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 200,
+        "FID_tmpSample_label" : 407,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16547429700006,
+        "POINT_Y" : 30.656034931000079,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16547429700006,
+        "y" : 30.656034931000079
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 201,
+        "FID_tmpSample_label" : 408,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16727092700012,
+        "POINT_Y" : 30.656034931000079,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16727092700012,
+        "y" : 30.656034931000079
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 202,
+        "FID_tmpSample_label" : 429,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20500016900007,
+        "POINT_Y" : 30.656034931000079,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20500016900007,
+        "y" : 30.656034931000079
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 203,
+        "FID_tmpSample_label" : 430,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20679680000001,
+        "POINT_Y" : 30.656034931000079,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20679680000001,
+        "y" : 30.656034931000079
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 204,
+        "FID_tmpSample_label" : 431,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20859343000006,
+        "POINT_Y" : 30.656034931000079,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20859343000006,
+        "y" : 30.656034931000079
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 205,
+        "FID_tmpSample_label" : 432,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.21039006100011,
+        "POINT_Y" : 30.656034931000079,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.21039006100011,
+        "y" : 30.656034931000079
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 206,
+        "FID_tmpSample_label" : 433,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.21218669200005,
+        "POINT_Y" : 30.656034931000079,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.21218669200005,
+        "y" : 30.656034931000079
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 207,
+        "FID_tmpSample_label" : 435,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16008440500002,
+        "POINT_Y" : 30.65758045900003,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16008440500002,
+        "y" : 30.65758045900003
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 208,
+        "FID_tmpSample_label" : 436,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16188103600007,
+        "POINT_Y" : 30.65758045900003,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16188103600007,
+        "y" : 30.65758045900003
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 209,
+        "FID_tmpSample_label" : 437,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16367766600001,
+        "POINT_Y" : 30.65758045900003,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16367766600001,
+        "y" : 30.65758045900003
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 210,
+        "FID_tmpSample_label" : 438,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16547429700006,
+        "POINT_Y" : 30.65758045900003,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16547429700006,
+        "y" : 30.65758045900003
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 211,
+        "FID_tmpSample_label" : 439,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16727092700012,
+        "POINT_Y" : 30.65758045900003,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16727092700012,
+        "y" : 30.65758045900003
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 212,
+        "FID_tmpSample_label" : 460,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20500016900007,
+        "POINT_Y" : 30.65758045900003,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20500016900007,
+        "y" : 30.65758045900003
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 213,
+        "FID_tmpSample_label" : 461,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20679680000001,
+        "POINT_Y" : 30.65758045900003,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20679680000001,
+        "y" : 30.65758045900003
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 214,
+        "FID_tmpSample_label" : 462,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20859343000006,
+        "POINT_Y" : 30.65758045900003,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20859343000006,
+        "y" : 30.65758045900003
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 215,
+        "FID_tmpSample_label" : 463,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.21039006100011,
+        "POINT_Y" : 30.65758045900003,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.21039006100011,
+        "y" : 30.65758045900003
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 216,
+        "FID_tmpSample_label" : 464,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.21218669200005,
+        "POINT_Y" : 30.65758045900003,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.21218669200005,
+        "y" : 30.65758045900003
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 217,
+        "FID_tmpSample_label" : 466,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16008440500002,
+        "POINT_Y" : 30.659125962000076,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16008440500002,
+        "y" : 30.659125962000076
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 218,
+        "FID_tmpSample_label" : 467,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16188103600007,
+        "POINT_Y" : 30.659125962000076,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16188103600007,
+        "y" : 30.659125962000076
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 219,
+        "FID_tmpSample_label" : 468,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16367766600001,
+        "POINT_Y" : 30.659125962000076,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16367766600001,
+        "y" : 30.659125962000076
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 220,
+        "FID_tmpSample_label" : 469,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16547429700006,
+        "POINT_Y" : 30.659125962000076,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16547429700006,
+        "y" : 30.659125962000076
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 221,
+        "FID_tmpSample_label" : 470,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16727092700012,
+        "POINT_Y" : 30.659125962000076,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16727092700012,
+        "y" : 30.659125962000076
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 222,
+        "FID_tmpSample_label" : 471,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16906755800005,
+        "POINT_Y" : 30.659125962000076,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16906755800005,
+        "y" : 30.659125962000076
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 223,
+        "FID_tmpSample_label" : 491,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20500016900007,
+        "POINT_Y" : 30.659125962000076,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20500016900007,
+        "y" : 30.659125962000076
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 224,
+        "FID_tmpSample_label" : 492,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20679680000001,
+        "POINT_Y" : 30.659125962000076,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20679680000001,
+        "y" : 30.659125962000076
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 225,
+        "FID_tmpSample_label" : 493,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20859343000006,
+        "POINT_Y" : 30.659125962000076,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20859343000006,
+        "y" : 30.659125962000076
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 226,
+        "FID_tmpSample_label" : 494,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.21039006100011,
+        "POINT_Y" : 30.659125962000076,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.21039006100011,
+        "y" : 30.659125962000076
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 227,
+        "FID_tmpSample_label" : 495,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.21218669200005,
+        "POINT_Y" : 30.659125962000076,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.21218669200005,
+        "y" : 30.659125962000076
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 228,
+        "FID_tmpSample_label" : 497,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16008440500002,
+        "POINT_Y" : 30.660671441000034,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16008440500002,
+        "y" : 30.660671441000034
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 229,
+        "FID_tmpSample_label" : 498,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16188103600007,
+        "POINT_Y" : 30.660671441000034,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16188103600007,
+        "y" : 30.660671441000034
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 230,
+        "FID_tmpSample_label" : 499,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16367766600001,
+        "POINT_Y" : 30.660671441000034,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16367766600001,
+        "y" : 30.660671441000034
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 231,
+        "FID_tmpSample_label" : 500,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16547429700006,
+        "POINT_Y" : 30.660671441000034,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16547429700006,
+        "y" : 30.660671441000034
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 232,
+        "FID_tmpSample_label" : 501,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16727092700012,
+        "POINT_Y" : 30.660671441000034,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16727092700012,
+        "y" : 30.660671441000034
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 233,
+        "FID_tmpSample_label" : 502,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16906755800005,
+        "POINT_Y" : 30.660671441000034,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16906755800005,
+        "y" : 30.660671441000034
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 234,
+        "FID_tmpSample_label" : 522,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20500016900007,
+        "POINT_Y" : 30.660671441000034,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20500016900007,
+        "y" : 30.660671441000034
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 235,
+        "FID_tmpSample_label" : 523,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20679680000001,
+        "POINT_Y" : 30.660671441000034,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20679680000001,
+        "y" : 30.660671441000034
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 236,
+        "FID_tmpSample_label" : 524,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20859343000006,
+        "POINT_Y" : 30.660671441000034,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20859343000006,
+        "y" : 30.660671441000034
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 237,
+        "FID_tmpSample_label" : 525,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.21039006100011,
+        "POINT_Y" : 30.660671441000034,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.21039006100011,
+        "y" : 30.660671441000034
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 238,
+        "FID_tmpSample_label" : 526,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.21218669200005,
+        "POINT_Y" : 30.660671441000034,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.21218669200005,
+        "y" : 30.660671441000034
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 239,
+        "FID_tmpSample_label" : 527,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.2139833220001,
+        "POINT_Y" : 30.660671441000034,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.2139833220001,
+        "y" : 30.660671441000034
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 240,
+        "FID_tmpSample_label" : 529,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16188103600007,
+        "POINT_Y" : 30.662216894000039,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16188103600007,
+        "y" : 30.662216894000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 241,
+        "FID_tmpSample_label" : 530,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16367766600001,
+        "POINT_Y" : 30.662216894000039,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16367766600001,
+        "y" : 30.662216894000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 242,
+        "FID_tmpSample_label" : 531,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16547429700006,
+        "POINT_Y" : 30.662216894000039,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16547429700006,
+        "y" : 30.662216894000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 243,
+        "FID_tmpSample_label" : 532,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16727092700012,
+        "POINT_Y" : 30.662216894000039,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16727092700012,
+        "y" : 30.662216894000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 244,
+        "FID_tmpSample_label" : 533,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16906755800005,
+        "POINT_Y" : 30.662216894000039,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16906755800005,
+        "y" : 30.662216894000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 245,
+        "FID_tmpSample_label" : 534,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17086418800011,
+        "POINT_Y" : 30.662216894000039,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17086418800011,
+        "y" : 30.662216894000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 246,
+        "FID_tmpSample_label" : 553,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20500016900007,
+        "POINT_Y" : 30.662216894000039,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20500016900007,
+        "y" : 30.662216894000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 247,
+        "FID_tmpSample_label" : 554,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20679680000001,
+        "POINT_Y" : 30.662216894000039,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20679680000001,
+        "y" : 30.662216894000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 248,
+        "FID_tmpSample_label" : 555,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20859343000006,
+        "POINT_Y" : 30.662216894000039,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20859343000006,
+        "y" : 30.662216894000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 249,
+        "FID_tmpSample_label" : 556,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.21039006100011,
+        "POINT_Y" : 30.662216894000039,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.21039006100011,
+        "y" : 30.662216894000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 250,
+        "FID_tmpSample_label" : 557,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.21218669200005,
+        "POINT_Y" : 30.662216894000039,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.21218669200005,
+        "y" : 30.662216894000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 251,
+        "FID_tmpSample_label" : 558,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.2139833220001,
+        "POINT_Y" : 30.662216894000039,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.2139833220001,
+        "y" : 30.662216894000039
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 252,
+        "FID_tmpSample_label" : 561,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16367766600001,
+        "POINT_Y" : 30.663762323000071,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16367766600001,
+        "y" : 30.663762323000071
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 253,
+        "FID_tmpSample_label" : 562,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16547429700006,
+        "POINT_Y" : 30.663762323000071,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16547429700006,
+        "y" : 30.663762323000071
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 254,
+        "FID_tmpSample_label" : 563,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16727092700012,
+        "POINT_Y" : 30.663762323000071,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16727092700012,
+        "y" : 30.663762323000071
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 255,
+        "FID_tmpSample_label" : 564,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16906755800005,
+        "POINT_Y" : 30.663762323000071,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16906755800005,
+        "y" : 30.663762323000071
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 256,
+        "FID_tmpSample_label" : 565,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17086418800011,
+        "POINT_Y" : 30.663762323000071,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17086418800011,
+        "y" : 30.663762323000071
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 257,
+        "FID_tmpSample_label" : 566,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17266081900004,
+        "POINT_Y" : 30.663762323000071,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17266081900004,
+        "y" : 30.663762323000071
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 258,
+        "FID_tmpSample_label" : 584,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20500016900007,
+        "POINT_Y" : 30.663762323000071,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20500016900007,
+        "y" : 30.663762323000071
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 259,
+        "FID_tmpSample_label" : 585,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20679680000001,
+        "POINT_Y" : 30.663762323000071,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20679680000001,
+        "y" : 30.663762323000071
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 260,
+        "FID_tmpSample_label" : 586,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20859343000006,
+        "POINT_Y" : 30.663762323000071,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20859343000006,
+        "y" : 30.663762323000071
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 261,
+        "FID_tmpSample_label" : 587,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.21039006100011,
+        "POINT_Y" : 30.663762323000071,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.21039006100011,
+        "y" : 30.663762323000071
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 262,
+        "FID_tmpSample_label" : 588,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.21218669200005,
+        "POINT_Y" : 30.663762323000071,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.21218669200005,
+        "y" : 30.663762323000071
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 263,
+        "FID_tmpSample_label" : 592,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16367766600001,
+        "POINT_Y" : 30.665307728000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16367766600001,
+        "y" : 30.665307728000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 264,
+        "FID_tmpSample_label" : 593,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16547429700006,
+        "POINT_Y" : 30.665307728000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16547429700006,
+        "y" : 30.665307728000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 265,
+        "FID_tmpSample_label" : 594,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16727092700012,
+        "POINT_Y" : 30.665307728000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16727092700012,
+        "y" : 30.665307728000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 266,
+        "FID_tmpSample_label" : 595,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16906755800005,
+        "POINT_Y" : 30.665307728000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16906755800005,
+        "y" : 30.665307728000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 267,
+        "FID_tmpSample_label" : 596,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17086418800011,
+        "POINT_Y" : 30.665307728000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17086418800011,
+        "y" : 30.665307728000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 268,
+        "FID_tmpSample_label" : 597,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17266081900004,
+        "POINT_Y" : 30.665307728000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17266081900004,
+        "y" : 30.665307728000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 269,
+        "FID_tmpSample_label" : 598,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17445745000009,
+        "POINT_Y" : 30.665307728000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17445745000009,
+        "y" : 30.665307728000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 270,
+        "FID_tmpSample_label" : 615,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20500016900007,
+        "POINT_Y" : 30.665307728000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20500016900007,
+        "y" : 30.665307728000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 271,
+        "FID_tmpSample_label" : 616,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20679680000001,
+        "POINT_Y" : 30.665307728000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20679680000001,
+        "y" : 30.665307728000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 272,
+        "FID_tmpSample_label" : 617,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20859343000006,
+        "POINT_Y" : 30.665307728000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20859343000006,
+        "y" : 30.665307728000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 273,
+        "FID_tmpSample_label" : 618,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.21039006100011,
+        "POINT_Y" : 30.665307728000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.21039006100011,
+        "y" : 30.665307728000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 274,
+        "FID_tmpSample_label" : 619,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.21218669200005,
+        "POINT_Y" : 30.665307728000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.21218669200005,
+        "y" : 30.665307728000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 275,
+        "FID_tmpSample_label" : 624,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16547429700006,
+        "POINT_Y" : 30.666853107000065,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16547429700006,
+        "y" : 30.666853107000065
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 276,
+        "FID_tmpSample_label" : 625,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16727092700012,
+        "POINT_Y" : 30.666853107000065,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16727092700012,
+        "y" : 30.666853107000065
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 277,
+        "FID_tmpSample_label" : 626,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16906755800005,
+        "POINT_Y" : 30.666853107000065,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16906755800005,
+        "y" : 30.666853107000065
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 278,
+        "FID_tmpSample_label" : 627,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17086418800011,
+        "POINT_Y" : 30.666853107000065,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17086418800011,
+        "y" : 30.666853107000065
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 279,
+        "FID_tmpSample_label" : 628,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17266081900004,
+        "POINT_Y" : 30.666853107000065,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17266081900004,
+        "y" : 30.666853107000065
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 280,
+        "FID_tmpSample_label" : 629,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17445745000009,
+        "POINT_Y" : 30.666853107000065,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17445745000009,
+        "y" : 30.666853107000065
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 281,
+        "FID_tmpSample_label" : 630,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17625408000004,
+        "POINT_Y" : 30.666853107000065,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17625408000004,
+        "y" : 30.666853107000065
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 282,
+        "FID_tmpSample_label" : 646,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20500016900007,
+        "POINT_Y" : 30.666853107000065,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20500016900007,
+        "y" : 30.666853107000065
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 283,
+        "FID_tmpSample_label" : 647,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20679680000001,
+        "POINT_Y" : 30.666853107000065,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20679680000001,
+        "y" : 30.666853107000065
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 284,
+        "FID_tmpSample_label" : 648,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20859343000006,
+        "POINT_Y" : 30.666853107000065,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20859343000006,
+        "y" : 30.666853107000065
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 285,
+        "FID_tmpSample_label" : 649,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.21039006100011,
+        "POINT_Y" : 30.666853107000065,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.21039006100011,
+        "y" : 30.666853107000065
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 286,
+        "FID_tmpSample_label" : 650,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.21218669200005,
+        "POINT_Y" : 30.666853107000065,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.21218669200005,
+        "y" : 30.666853107000065
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 287,
+        "FID_tmpSample_label" : 656,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16727092700012,
+        "POINT_Y" : 30.668398462000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16727092700012,
+        "y" : 30.668398462000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 288,
+        "FID_tmpSample_label" : 657,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16906755800005,
+        "POINT_Y" : 30.668398462000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16906755800005,
+        "y" : 30.668398462000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 289,
+        "FID_tmpSample_label" : 658,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17086418800011,
+        "POINT_Y" : 30.668398462000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17086418800011,
+        "y" : 30.668398462000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 290,
+        "FID_tmpSample_label" : 659,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17266081900004,
+        "POINT_Y" : 30.668398462000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17266081900004,
+        "y" : 30.668398462000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 291,
+        "FID_tmpSample_label" : 660,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17445745000009,
+        "POINT_Y" : 30.668398462000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17445745000009,
+        "y" : 30.668398462000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 292,
+        "FID_tmpSample_label" : 661,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17625408000004,
+        "POINT_Y" : 30.668398462000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17625408000004,
+        "y" : 30.668398462000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 293,
+        "FID_tmpSample_label" : 662,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17805071100008,
+        "POINT_Y" : 30.668398462000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17805071100008,
+        "y" : 30.668398462000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 294,
+        "FID_tmpSample_label" : 663,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17984734100003,
+        "POINT_Y" : 30.668398462000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17984734100003,
+        "y" : 30.668398462000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 295,
+        "FID_tmpSample_label" : 668,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18883049400006,
+        "POINT_Y" : 30.668398462000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18883049400006,
+        "y" : 30.668398462000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 296,
+        "FID_tmpSample_label" : 669,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19062712500011,
+        "POINT_Y" : 30.668398462000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19062712500011,
+        "y" : 30.668398462000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 297,
+        "FID_tmpSample_label" : 670,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19242375500005,
+        "POINT_Y" : 30.668398462000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19242375500005,
+        "y" : 30.668398462000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 298,
+        "FID_tmpSample_label" : 671,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.1942203860001,
+        "POINT_Y" : 30.668398462000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.1942203860001,
+        "y" : 30.668398462000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 299,
+        "FID_tmpSample_label" : 672,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19601701600004,
+        "POINT_Y" : 30.668398462000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19601701600004,
+        "y" : 30.668398462000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 300,
+        "FID_tmpSample_label" : 673,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19781364700009,
+        "POINT_Y" : 30.668398462000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19781364700009,
+        "y" : 30.668398462000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 301,
+        "FID_tmpSample_label" : 674,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19961027800002,
+        "POINT_Y" : 30.668398462000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19961027800002,
+        "y" : 30.668398462000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 302,
+        "FID_tmpSample_label" : 675,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20140690800008,
+        "POINT_Y" : 30.668398462000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20140690800008,
+        "y" : 30.668398462000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 303,
+        "FID_tmpSample_label" : 676,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20320353900001,
+        "POINT_Y" : 30.668398462000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20320353900001,
+        "y" : 30.668398462000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 304,
+        "FID_tmpSample_label" : 677,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20500016900007,
+        "POINT_Y" : 30.668398462000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20500016900007,
+        "y" : 30.668398462000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 305,
+        "FID_tmpSample_label" : 678,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20679680000001,
+        "POINT_Y" : 30.668398462000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20679680000001,
+        "y" : 30.668398462000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 306,
+        "FID_tmpSample_label" : 679,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20859343000006,
+        "POINT_Y" : 30.668398462000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20859343000006,
+        "y" : 30.668398462000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 307,
+        "FID_tmpSample_label" : 680,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.21039006100011,
+        "POINT_Y" : 30.668398462000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.21039006100011,
+        "y" : 30.668398462000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 308,
+        "FID_tmpSample_label" : 681,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.21218669200005,
+        "POINT_Y" : 30.668398462000027,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.21218669200005,
+        "y" : 30.668398462000027
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 309,
+        "FID_tmpSample_label" : 687,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16727092700012,
+        "POINT_Y" : 30.669943793000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16727092700012,
+        "y" : 30.669943793000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 310,
+        "FID_tmpSample_label" : 688,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.16906755800005,
+        "POINT_Y" : 30.669943793000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.16906755800005,
+        "y" : 30.669943793000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 311,
+        "FID_tmpSample_label" : 689,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17086418800011,
+        "POINT_Y" : 30.669943793000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17086418800011,
+        "y" : 30.669943793000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 312,
+        "FID_tmpSample_label" : 690,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17266081900004,
+        "POINT_Y" : 30.669943793000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17266081900004,
+        "y" : 30.669943793000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 313,
+        "FID_tmpSample_label" : 691,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17445745000009,
+        "POINT_Y" : 30.669943793000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17445745000009,
+        "y" : 30.669943793000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 314,
+        "FID_tmpSample_label" : 692,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17625408000004,
+        "POINT_Y" : 30.669943793000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17625408000004,
+        "y" : 30.669943793000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 315,
+        "FID_tmpSample_label" : 693,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17805071100008,
+        "POINT_Y" : 30.669943793000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17805071100008,
+        "y" : 30.669943793000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 316,
+        "FID_tmpSample_label" : 694,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17984734100003,
+        "POINT_Y" : 30.669943793000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17984734100003,
+        "y" : 30.669943793000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 317,
+        "FID_tmpSample_label" : 695,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18164397200007,
+        "POINT_Y" : 30.669943793000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18164397200007,
+        "y" : 30.669943793000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 318,
+        "FID_tmpSample_label" : 696,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18344060200002,
+        "POINT_Y" : 30.669943793000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18344060200002,
+        "y" : 30.669943793000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 319,
+        "FID_tmpSample_label" : 697,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18523723300007,
+        "POINT_Y" : 30.669943793000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18523723300007,
+        "y" : 30.669943793000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 320,
+        "FID_tmpSample_label" : 698,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18703386400011,
+        "POINT_Y" : 30.669943793000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18703386400011,
+        "y" : 30.669943793000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 321,
+        "FID_tmpSample_label" : 699,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18883049400006,
+        "POINT_Y" : 30.669943793000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18883049400006,
+        "y" : 30.669943793000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 322,
+        "FID_tmpSample_label" : 700,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19062712500011,
+        "POINT_Y" : 30.669943793000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19062712500011,
+        "y" : 30.669943793000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 323,
+        "FID_tmpSample_label" : 701,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19242375500005,
+        "POINT_Y" : 30.669943793000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19242375500005,
+        "y" : 30.669943793000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 324,
+        "FID_tmpSample_label" : 702,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.1942203860001,
+        "POINT_Y" : 30.669943793000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.1942203860001,
+        "y" : 30.669943793000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 325,
+        "FID_tmpSample_label" : 703,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19601701600004,
+        "POINT_Y" : 30.669943793000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19601701600004,
+        "y" : 30.669943793000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 326,
+        "FID_tmpSample_label" : 704,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19781364700009,
+        "POINT_Y" : 30.669943793000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19781364700009,
+        "y" : 30.669943793000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 327,
+        "FID_tmpSample_label" : 705,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19961027800002,
+        "POINT_Y" : 30.669943793000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19961027800002,
+        "y" : 30.669943793000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 328,
+        "FID_tmpSample_label" : 706,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20140690800008,
+        "POINT_Y" : 30.669943793000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20140690800008,
+        "y" : 30.669943793000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 329,
+        "FID_tmpSample_label" : 707,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20320353900001,
+        "POINT_Y" : 30.669943793000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20320353900001,
+        "y" : 30.669943793000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 330,
+        "FID_tmpSample_label" : 708,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20500016900007,
+        "POINT_Y" : 30.669943793000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20500016900007,
+        "y" : 30.669943793000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 331,
+        "FID_tmpSample_label" : 709,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20679680000001,
+        "POINT_Y" : 30.669943793000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20679680000001,
+        "y" : 30.669943793000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 332,
+        "FID_tmpSample_label" : 710,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20859343000006,
+        "POINT_Y" : 30.669943793000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20859343000006,
+        "y" : 30.669943793000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 333,
+        "FID_tmpSample_label" : 711,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.21039006100011,
+        "POINT_Y" : 30.669943793000073,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.21039006100011,
+        "y" : 30.669943793000073
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 334,
+        "FID_tmpSample_label" : 720,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17086418800011,
+        "POINT_Y" : 30.671489098000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17086418800011,
+        "y" : 30.671489098000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 335,
+        "FID_tmpSample_label" : 721,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17266081900004,
+        "POINT_Y" : 30.671489098000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17266081900004,
+        "y" : 30.671489098000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 336,
+        "FID_tmpSample_label" : 722,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17445745000009,
+        "POINT_Y" : 30.671489098000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17445745000009,
+        "y" : 30.671489098000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 337,
+        "FID_tmpSample_label" : 723,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17625408000004,
+        "POINT_Y" : 30.671489098000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17625408000004,
+        "y" : 30.671489098000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 338,
+        "FID_tmpSample_label" : 724,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17805071100008,
+        "POINT_Y" : 30.671489098000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17805071100008,
+        "y" : 30.671489098000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 339,
+        "FID_tmpSample_label" : 725,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17984734100003,
+        "POINT_Y" : 30.671489098000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17984734100003,
+        "y" : 30.671489098000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 340,
+        "FID_tmpSample_label" : 726,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18164397200007,
+        "POINT_Y" : 30.671489098000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18164397200007,
+        "y" : 30.671489098000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 341,
+        "FID_tmpSample_label" : 727,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18344060200002,
+        "POINT_Y" : 30.671489098000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18344060200002,
+        "y" : 30.671489098000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 342,
+        "FID_tmpSample_label" : 728,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18523723300007,
+        "POINT_Y" : 30.671489098000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18523723300007,
+        "y" : 30.671489098000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 343,
+        "FID_tmpSample_label" : 729,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18703386400011,
+        "POINT_Y" : 30.671489098000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18703386400011,
+        "y" : 30.671489098000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 344,
+        "FID_tmpSample_label" : 730,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18883049400006,
+        "POINT_Y" : 30.671489098000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18883049400006,
+        "y" : 30.671489098000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 345,
+        "FID_tmpSample_label" : 731,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19062712500011,
+        "POINT_Y" : 30.671489098000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19062712500011,
+        "y" : 30.671489098000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 346,
+        "FID_tmpSample_label" : 732,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19242375500005,
+        "POINT_Y" : 30.671489098000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19242375500005,
+        "y" : 30.671489098000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 347,
+        "FID_tmpSample_label" : 733,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.1942203860001,
+        "POINT_Y" : 30.671489098000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.1942203860001,
+        "y" : 30.671489098000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 348,
+        "FID_tmpSample_label" : 734,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19601701600004,
+        "POINT_Y" : 30.671489098000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19601701600004,
+        "y" : 30.671489098000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 349,
+        "FID_tmpSample_label" : 735,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19781364700009,
+        "POINT_Y" : 30.671489098000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19781364700009,
+        "y" : 30.671489098000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 350,
+        "FID_tmpSample_label" : 736,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19961027800002,
+        "POINT_Y" : 30.671489098000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19961027800002,
+        "y" : 30.671489098000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 351,
+        "FID_tmpSample_label" : 737,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20140690800008,
+        "POINT_Y" : 30.671489098000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20140690800008,
+        "y" : 30.671489098000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 352,
+        "FID_tmpSample_label" : 738,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20320353900001,
+        "POINT_Y" : 30.671489098000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20320353900001,
+        "y" : 30.671489098000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 353,
+        "FID_tmpSample_label" : 739,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20500016900007,
+        "POINT_Y" : 30.671489098000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20500016900007,
+        "y" : 30.671489098000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 354,
+        "FID_tmpSample_label" : 740,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20679680000001,
+        "POINT_Y" : 30.671489098000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20679680000001,
+        "y" : 30.671489098000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 355,
+        "FID_tmpSample_label" : 741,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20859343000006,
+        "POINT_Y" : 30.671489098000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20859343000006,
+        "y" : 30.671489098000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 356,
+        "FID_tmpSample_label" : 742,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.21039006100011,
+        "POINT_Y" : 30.671489098000052,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.21039006100011,
+        "y" : 30.671489098000052
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 357,
+        "FID_tmpSample_label" : 752,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17266081900004,
+        "POINT_Y" : 30.673034379000057,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17266081900004,
+        "y" : 30.673034379000057
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 358,
+        "FID_tmpSample_label" : 753,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17445745000009,
+        "POINT_Y" : 30.673034379000057,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17445745000009,
+        "y" : 30.673034379000057
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 359,
+        "FID_tmpSample_label" : 754,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17625408000004,
+        "POINT_Y" : 30.673034379000057,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17625408000004,
+        "y" : 30.673034379000057
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 360,
+        "FID_tmpSample_label" : 755,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17805071100008,
+        "POINT_Y" : 30.673034379000057,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17805071100008,
+        "y" : 30.673034379000057
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 361,
+        "FID_tmpSample_label" : 756,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17984734100003,
+        "POINT_Y" : 30.673034379000057,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17984734100003,
+        "y" : 30.673034379000057
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 362,
+        "FID_tmpSample_label" : 757,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18164397200007,
+        "POINT_Y" : 30.673034379000057,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18164397200007,
+        "y" : 30.673034379000057
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 363,
+        "FID_tmpSample_label" : 758,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18344060200002,
+        "POINT_Y" : 30.673034379000057,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18344060200002,
+        "y" : 30.673034379000057
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 364,
+        "FID_tmpSample_label" : 759,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18523723300007,
+        "POINT_Y" : 30.673034379000057,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18523723300007,
+        "y" : 30.673034379000057
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 365,
+        "FID_tmpSample_label" : 760,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18703386400011,
+        "POINT_Y" : 30.673034379000057,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18703386400011,
+        "y" : 30.673034379000057
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 366,
+        "FID_tmpSample_label" : 761,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18883049400006,
+        "POINT_Y" : 30.673034379000057,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18883049400006,
+        "y" : 30.673034379000057
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 367,
+        "FID_tmpSample_label" : 762,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19062712500011,
+        "POINT_Y" : 30.673034379000057,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19062712500011,
+        "y" : 30.673034379000057
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 368,
+        "FID_tmpSample_label" : 763,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19242375500005,
+        "POINT_Y" : 30.673034379000057,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19242375500005,
+        "y" : 30.673034379000057
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 369,
+        "FID_tmpSample_label" : 764,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.1942203860001,
+        "POINT_Y" : 30.673034379000057,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.1942203860001,
+        "y" : 30.673034379000057
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 370,
+        "FID_tmpSample_label" : 765,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19601701600004,
+        "POINT_Y" : 30.673034379000057,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19601701600004,
+        "y" : 30.673034379000057
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 371,
+        "FID_tmpSample_label" : 766,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19781364700009,
+        "POINT_Y" : 30.673034379000057,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19781364700009,
+        "y" : 30.673034379000057
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 372,
+        "FID_tmpSample_label" : 767,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19961027800002,
+        "POINT_Y" : 30.673034379000057,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19961027800002,
+        "y" : 30.673034379000057
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 373,
+        "FID_tmpSample_label" : 768,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20140690800008,
+        "POINT_Y" : 30.673034379000057,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20140690800008,
+        "y" : 30.673034379000057
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 374,
+        "FID_tmpSample_label" : 769,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20320353900001,
+        "POINT_Y" : 30.673034379000057,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20320353900001,
+        "y" : 30.673034379000057
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 375,
+        "FID_tmpSample_label" : 770,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20500016900007,
+        "POINT_Y" : 30.673034379000057,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20500016900007,
+        "y" : 30.673034379000057
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 376,
+        "FID_tmpSample_label" : 771,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20679680000001,
+        "POINT_Y" : 30.673034379000057,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20679680000001,
+        "y" : 30.673034379000057
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 377,
+        "FID_tmpSample_label" : 772,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20859343000006,
+        "POINT_Y" : 30.673034379000057,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20859343000006,
+        "y" : 30.673034379000057
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 378,
+        "FID_tmpSample_label" : 785,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17625408000004,
+        "POINT_Y" : 30.674579635000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17625408000004,
+        "y" : 30.674579635000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 379,
+        "FID_tmpSample_label" : 786,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17805071100008,
+        "POINT_Y" : 30.674579635000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17805071100008,
+        "y" : 30.674579635000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 380,
+        "FID_tmpSample_label" : 787,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17984734100003,
+        "POINT_Y" : 30.674579635000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17984734100003,
+        "y" : 30.674579635000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 381,
+        "FID_tmpSample_label" : 788,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18164397200007,
+        "POINT_Y" : 30.674579635000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18164397200007,
+        "y" : 30.674579635000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 382,
+        "FID_tmpSample_label" : 789,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18344060200002,
+        "POINT_Y" : 30.674579635000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18344060200002,
+        "y" : 30.674579635000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 383,
+        "FID_tmpSample_label" : 790,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18523723300007,
+        "POINT_Y" : 30.674579635000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18523723300007,
+        "y" : 30.674579635000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 384,
+        "FID_tmpSample_label" : 791,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18703386400011,
+        "POINT_Y" : 30.674579635000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18703386400011,
+        "y" : 30.674579635000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 385,
+        "FID_tmpSample_label" : 792,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18883049400006,
+        "POINT_Y" : 30.674579635000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18883049400006,
+        "y" : 30.674579635000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 386,
+        "FID_tmpSample_label" : 793,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19062712500011,
+        "POINT_Y" : 30.674579635000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19062712500011,
+        "y" : 30.674579635000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 387,
+        "FID_tmpSample_label" : 794,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19242375500005,
+        "POINT_Y" : 30.674579635000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19242375500005,
+        "y" : 30.674579635000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 388,
+        "FID_tmpSample_label" : 795,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.1942203860001,
+        "POINT_Y" : 30.674579635000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.1942203860001,
+        "y" : 30.674579635000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 389,
+        "FID_tmpSample_label" : 796,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19601701600004,
+        "POINT_Y" : 30.674579635000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19601701600004,
+        "y" : 30.674579635000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 390,
+        "FID_tmpSample_label" : 797,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19781364700009,
+        "POINT_Y" : 30.674579635000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19781364700009,
+        "y" : 30.674579635000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 391,
+        "FID_tmpSample_label" : 798,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.19961027800002,
+        "POINT_Y" : 30.674579635000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.19961027800002,
+        "y" : 30.674579635000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 392,
+        "FID_tmpSample_label" : 799,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20140690800008,
+        "POINT_Y" : 30.674579635000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20140690800008,
+        "y" : 30.674579635000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 393,
+        "FID_tmpSample_label" : 800,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20320353900001,
+        "POINT_Y" : 30.674579635000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20320353900001,
+        "y" : 30.674579635000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 394,
+        "FID_tmpSample_label" : 801,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20500016900007,
+        "POINT_Y" : 30.674579635000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20500016900007,
+        "y" : 30.674579635000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 395,
+        "FID_tmpSample_label" : 802,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.20679680000001,
+        "POINT_Y" : 30.674579635000043,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.20679680000001,
+        "y" : 30.674579635000043
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 396,
+        "FID_tmpSample_label" : 818,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.17984734100003,
+        "POINT_Y" : 30.676124866000066,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.17984734100003,
+        "y" : 30.676124866000066
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 397,
+        "FID_tmpSample_label" : 819,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18164397200007,
+        "POINT_Y" : 30.676124866000066,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18164397200007,
+        "y" : 30.676124866000066
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 398,
+        "FID_tmpSample_label" : 820,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18344060200002,
+        "POINT_Y" : 30.676124866000066,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18344060200002,
+        "y" : 30.676124866000066
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 399,
+        "FID_tmpSample_label" : 821,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18523723300007,
+        "POINT_Y" : 30.676124866000066,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18523723300007,
+        "y" : 30.676124866000066
+      }
+    },
+    {
+      "attributes" : {
+        "OBJECTID" : 400,
+        "FID_tmpSample_label" : 822,
+        "FID_tmpBuffer" : 1,
+        "POINT_X" : 114.18703386400011,
+        "POINT_Y" : 30.676124866000066,
+        "GREENWAY_NAME" : "金银湖绿道"
+      },
+      "geometry" : {
+        "x" : 114.18703386400011,
+        "y" : 30.676124866000066
+      }
+    }
+  ]
+}
