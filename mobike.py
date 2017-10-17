@@ -304,21 +304,23 @@ def spy_greenway(greenway_list, folder_path, date):
 
 
 def timing_start_spy(greenway_list, folder_path, start_time, end_time, d_minute=30):
-    s_time = dt.datetime.strftime(start_time, '%Y-%m-%d %H:%M:%S')
-    e_time = dt.datetime.strftime(end_time, '%Y-%m-%d %H:%M:%S')
+    s_time = dt.datetime.strptime(start_time, '%Y-%m-%d %H:%M:%S')
+    e_time = dt.datetime.strptime(end_time, '%Y-%m-%d %H:%M:%S')
     d_m = dt.timedelta(minutes=d_minute)
     date_time_list = []
     c_time = s_time
     while c_time <= e_time:
         t_obj = {"dt": c_time, "dts": c_time.strftime("%Y%m%d%H%M")}
         date_time_list.append(t_obj)
+        c_time = c_time + d_m
 
     for t_obj in date_time_list:
         datetime_obj = t_obj["dt"]
         datetime_str = t_obj["dts"]
         now_time = dt.datetime.now()
-        d_dt = now_time - datetime_obj
-        if d_dt.seconds > d_minute * 60:
+        d_dt = datetime_obj - now_time
+        d_sec = d_dt.days * 24 * 60 * 60 + d_dt.seconds
+        if d_sec > d_minute * 60:
             continue
         while now_time < datetime_obj:
             time.sleep(60)
